@@ -1,0 +1,17 @@
+# Rojo
+sourcemap.json
+*.rbxl
+*.rbxlx
+
+# Wally packages (reinstalled via wally install)
+Packages/
+ServerPackages/
+DevPackages/
+
+# Rokit
+.rokit/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store

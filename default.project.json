@@ -1,0 +1,58 @@
+{
+	"name": "new-game-project",
+	"tree": {
+		"$className": "DataModel",
+
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"Shared": {
+				"$path": "src/shared"
+			},
+			"Packages": {
+				"$path": "Packages"
+			}
+		},
+
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"Server": {
+				"$path": "src/server"
+			},
+			"ServerPackages": {
+				"$path": "ServerPackages"
+			}
+		},
+
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+				"Client": {
+					"$path": "src/client"
+				}
+			}
+		},
+
+		"Lighting": {
+			"$className": "Lighting",
+			"$properties": {
+				"Ambient": [0.3, 0.3, 0.3],
+				"Brightness": 2,
+				"ClockTime": 14,
+				"GeographicLatitude": 40
+			}
+		},
+
+		"SoundService": {
+			"$className": "SoundService"
+		},
+
+		"StarterGui": {
+			"$className": "StarterGui"
+		},
+
+		"Workspace": {
+			"$className": "Workspace"
+		}
+	}
+}
