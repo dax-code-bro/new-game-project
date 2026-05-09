@@ -486,11 +486,12 @@ The transcript was composed via voice-to-text and contains systematic autocorrec
 **Galactic Emperor Outfit (Male):**
 - Color: DARK GRAY (standard male); Isaiah wears this
 - Weight: **200 TONS**
-- White puffy collar that looks like it's made of sheep's wool
-- Belt of the exact same puffy white material around the waist
-- Galactic symbol on chest: a CONSTELLATION — stars tracing a standing human figure with one arm raised and people crouching/kneeling beneath him (appears to be giving commands); outlined in white (Isaiah) or gray (Taylor's version)
+- White puffy collar that looks like it's made of braided sheep's wool (wraps around the neck with visible texture)
+- Belt of the exact same puffy white sheep's wool material around the waist
+- **Gray cape** — draped over one shoulder; same dark gray as the suit (CANON — confirmed via visual reference)
+- Galactic symbol on chest: a CONSTELLATION — stars tracing a standing human figure with one arm raised toward a star, two people kneeling on either side below him (appears to be giving commands); the constellation **glows** against the dark gray suit
 - Transparent/faded logo behind the constellation; overlaid with the male (♂) or female (♀) gender symbol
-- Isaiah is uncomfortable with the symbol (shows people kneeling to him)
+- Isaiah is uncomfortable with the symbol (shows people kneeling to him) — he wears the authority but doesn't believe in it
 
 **Galactic Emperor Outfit (Female):**
 - Traditional color: SKY BLUE (Anita's color)
