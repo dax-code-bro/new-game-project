@@ -62,12 +62,26 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 ### Taylor
 - **Species:** Human
 - **Age at Part 5:** 18
-- **Role:** Isaiah's partner; Owen's mother
+- **Role:** Isaiah's partner; Owen's mother; eventual Empress
 - **Personality:**
   - Stubborn and strong-willed; does not want to be protected from hard truths
   - "I need you even when I'm mad" — her line to Isaiah after he apologized for being Arden
   - Lashes out maternally when she thinks Owen is in danger (grabbed at Isaiah teasing her with the baby)
   - Initially struggled with the pregnancy; Taylor's doubt arc spans multiple parts
+- **Physical appearance (CANON — confirmed via visual reference):**
+  - Long dark black hair, worn down and flowing naturally
+  - Warm olive/light brown skin tone
+  - Dark brown eyes — warm but sharp and perceptive
+  - Lean, athletic build — not fragile; carries the endurance of someone who survived an Arden-human pregnancy
+  - Average to slightly above average height (noticeably shorter than Isaiah's Arden frame)
+  - Expression: calm, direct, no performance — the look of someone who simply *is* what they are
+- **Empress outfit (CANON — confirmed via visual reference):**
+  - All WHITE fitted bodysuit (same cut as Isaiah's but entirely white)
+  - White braided sheep's wool collar (same texture as Isaiah's, blends into the white suit)
+  - White puffy sheep's wool belt at the waist
+  - White cape draped over shoulders
+  - Glowing constellation on chest (same figure — arm raised, two kneeling below) — outlined in gray against the white suit (inverse of Isaiah's white outline on gray)
+  - Female ♀ gender symbol overlaid on the constellation
 - **Physical:** During pregnancy drank a kinetic supplement drink — described as awful, the only thing that kept Owen from draining her completely
 - **Friends:**
   - **Mara** — loud, tall, dark hair
