@@ -898,17 +898,33 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 
 ---
 
-### Screamer
+### Screamer *(Aeroskreeae Bestia)*
 
-- **Size:** 3 feet tall; fragile and brittle
-- **Defining ability:** Scream breaks Arden eardrums; a yawn can deafen an entire village kilometers away
-- **Communication:** Low-frequency clicks (their own screams are painful even to themselves)
-- **Language comprehension:** Understand most human languages; cannot/won't speak them
-- **Social structure:** No alpha; flocks of 30+; fully egalitarian
-- **Combat behavior:** Passive unless threatened; when attacking: dive-bomb in hawk formation; head streamlines into bullet shape; pierces clean through prey
-- **Unique psychological trait:** IMMUNE to trauma — cannot carry regret or PTSD; can commit atrocities without psychological scarring
-- **Military use:** Frequently used as attack drones; trauma immunity makes them ideal for disturbing missions
-- **Ethical debate in-universe:** Is using creatures that cannot feel guilt ethical? Are they being exploited?
+- **Class:** Avianoid
+- **Height:** ~3 ft (0.9 m) / **Wingspan:** ~5 ft (1.5 m) / **Tail:** ~2 ft (0.6 m) / **Mass:** 25–35 lbs (11–16 kg)
+- **Diet:** Carnivorous
+- **Social structure:** Flock-based; flock size 10–30+
+- **Homeworld:** Various untamed worlds
+- **Temperament:** Skittish by default; aggressive when hunting
+- **Habitat:** Wild-swept plains, rocky badlands, high-sun regions; builds nests on cliff ledges and rock spires
+
+**Summary:** Small but deadly aerial predators known for their deafening sonic scream and high-speed ballistic dive attacks. Travel in large flocks and rely on fear, speed, and shock to kill prey many times their size.
+
+**Sonic Scream:** Produces a high-frequency sonic blast up to **190 decibels** — powerful enough to shatter eardrums from up to **5 miles (8 km)** away.
+
+**Bullet Dive:** Tucks wings and tail inward, locking the entire body into an aerodynamic point and launching at extreme speed — striking prey with lethal force. Death on impact is instant.
+
+**4-Stage Hunting Pattern:**
+1. **Screech** — sonic blast stuns and disorients prey
+2. **Tuck** — body locks into aerodynamic dive position
+3. **Dive** — full-speed descent toward target
+4. **Impact** — impale or crush on contact; instant kill
+
+**Flock Behavior:** Travel and hunt in chaotic flocks. Screech to disorient, then dive in waves to overwhelm prey.
+
+**Anatomy:** Sound Resonance Chamber | Sonic Projection Membrane | Large eyes (low-light vision) | Flexible wing joints | Powerful legs for launching and landing | Balancing tail
+
+**Defenseless:** No natural armor whatsoever — relies entirely on speed, agility, numbers, and fear tactics to survive.
 
 ---
 
