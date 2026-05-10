@@ -1317,3 +1317,372 @@ All designs below confirmed via ChatGPT-generated images reviewed and approved t
 16. **Atlas' real name is Atlas** — not Alaric. The "Alaric" entry in earlier autocorrect tables was an AI error. Every instance of "Alaric" in any future session should be understood as Atlas.
 
 17. **The Arden Imperial Rank System is canon** — 7 confirmed ranks with full visual designs, materials, philosophies, and quotes developed by the user with ChatGPT.
+
+---
+
+## PART IV — SESSION UPDATE: YFP GENERATION, NEW CHARACTERS & LORE
+
+*Added from character sheets developed with ChatGPT — covers Owen's era and the next-generation team.*
+
+---
+
+## MAGNUS — COMPLETE CHARACTER PROFILE (UPDATED)
+
+*Supplements the Magnus Expanded Profile above with full stats sheet data.*
+
+- **Real Name:** Magnus
+- **Also known as:** "Madness" (transcript autocorrect — same character)
+- **Title:** The Conqueror
+- **Age:** 10,000+ years
+- **Appearance Age:** 50s–Early 60s
+- **Height:** 7'0" (213 cm) / **Weight:** 310 lbs (141 kg)
+- **Species:** Arden (Enhanced)
+- **Origin:** Arden Prime
+- **Affiliation:** None (formal) — operates through the Shroud Council but sees himself as beholden to no one
+- **Role:** Conqueror / Destroyer
+- **Base:** Unknown (The Crimson Citadel is his seat of power)
+- **Status:** ACTIVE (alive through the 3-Week War arc and beyond into Owen's era)
+- **Threat Level:** EXTINCTION CLASS
+- **Overall Threat Rating:** OMEGA
+
+**Quote:** *"I do not seek to rule. I seek to prove that nothing can stop me."*
+
+**Biography:**
+Born during the earliest age of the Ardens — a time of constant war between worlds. Even as a child, he displayed power that far surpassed anything his people had ever seen. He believed strength was the only truth in the universe. While others sought peace, balance, or enlightenment, Magnus sought conquest. For thousands of years, he waged war across galaxies — not for resources, not for survival, but for one purpose: *to prove that he was the pinnacle of existence.* He has crushed empires, challenged gods, and killed beings that existed before time. Nothing has ever been able to stop him — only wound him. Gravely injured and left for dead on more worlds than can be counted, Magnus continues forward.
+*"He does not fear death. He fears being forgotten."*
+
+**Abilities:**
+- **Planet Crushing Strength:** Wields a level of strength capable of devastating planets and tearing through fortifications that can withstand moons
+- **Space Conquest:** Has led and conquered countless armies across thousands of star systems; a master of war on a galactic scale
+- **Arden Enhancement:** Body augmented with ancient Arden augmentations that far exceed modern understanding
+- **Energy Dominance:** Generates, absorbs, and emits devastating energies including thermal, kinetic, and cosmic-based attacks
+- **Immortal Resilience:** Can survive environments and injuries that would kill even the most durable beings; master of endurance
+- **Intimidation Aura:** His presence alone can weaken the will of others; armies have surrendered at the sight of him
+
+**Weaknesses:**
+- Arrogance blinds him at times
+- Underestimates unity and bonds between people
+- Severe injuries from ancient battles have left scars that can still be exploited
+- Craves a challenge — can be baited
+- His hatred for weakness can be used against him
+
+**History Milestones:**
+- *The Prodigy:* Even among Ardens, Magnus was different. His power was unmatched. His ambition was limitless.
+- *The Conquests:* Waged war across worlds, toppling civilizations, killing rulers, and leaving nothing but ash in his wake.
+- *The Betrayals:* Stabbed in the back more times than any can count. Each time he survived. Each time he came back stronger.
+- *The Legend:* Stories of Magnus became warnings. Planets pray he never comes. Empires tremble at hearing his name.
+- *The Present:* Gravely wounded. Still standing. Still hunting. Still conquering. The Conqueror never stops.
+
+**Known Enemies:**
+- **The Ancient Council:** Banished him. He destroyed them.
+- **The Celestial Wardens:** Tried to seal him away. He broke their prison.
+- **The War Titans:** Fought him. Died trying.
+- **The Vanguard Alliance:** Standing in his way now. He intends to break them.
+
+**Key Quotes:**
+- *"Everything lives, because I allow it. Everything dies, because I demand it."*
+- *"Empires fall. Stars die. But I remain."*
+- Magnus to Peter: *"You are nothing without me, Peter. And even with me, you are still nothing."*
+
+**Stat Footer:** 10,000+ years of war | Countless worlds conquered | Billions slaughtered | None have stopped him
+
+---
+
+## NEW SPECIES: WAR BEAST
+
+- **Status:** Near-extinct
+- **Biology:** Bodies composed of compressed geologic matter (stone and mineral); virtually immune to conventional weapons and environmental hazards; do not experience pain the way biological beings do; require minimal sustenance
+- **Origin:** Created by a long-dead civilization as living fortresses — bio-geologic weapons designed to endure eternal war. When that civilization fell, most War Beasts were slaughtered or sealed away.
+- **Known Living Members:** Bruiser (confirmed); Graphite/Darius Cole Jr. (War Beast Hybrid — son of Bruiser)
+- **War Beast Traits:**
+  - Immune to conventional weapons and environmental hazards
+  - Do not experience pain the way biological beings do
+  - Require minimal sustenance
+  - Unbreakable will — cannot be mentally manipulated or intimidated
+
+---
+
+## BRUISER — CHARACTER PROFILE
+
+- **Real Name:** Bruiser
+- **Species:** War Beast
+- **Age:** Unknown
+- **Height:** 9'8" (293 cm) / **Weight:** 2,350 lbs (1,065 kg)
+- **Affiliation:** Vanguard
+- **Role:** Tank / Frontline
+- **Base:** Ardenis Station
+- **Status:** ACTIVE
+- **Quote:** *"I don't break. I don't bend. I just keep coming."*
+
+**Overview:** Bruiser is the unmovable object of Vanguard. A War Beast whose body is literally stone, he stands as the frontline bulwark against the universe's deadliest threats. While others may fall, Bruiser does not. He absorbs the impossible so his team can survive. He is the wall. The mountain. The end of the enemy's advance.
+
+**Abilities:**
+- **Unbreakable:** Immunity to physical damage — body as hard as the mountains from which his kind was born
+- **Seismic Impact:** Generates shockwaves with each strike capable of breaking ground and structures
+- **Mountain's Resolve:** Unshakable will — cannot be intimidated, mind-controlled, or mentally manipulated
+- **Living Bulwark:** Provides cover and protection for teammates; excels at holding the line against overwhelming odds
+
+**Personality:** Stoic. Speaks rarely. Deeply loyal once trust is earned. Values strength, honor, and battlefield purpose. Dislikes needless cruelty. Protects those who fight beside him.
+
+**Size Reference:** 9'8" (293 cm) compared to 6' (183 cm) human average — he is nearly twice the height of a standard human.
+
+**Relationships:**
+- **Isaiah** — Mentor; Isaiah respects Bruiser's unshakable nature (Isaiah mentors Bruiser)
+- **Ellie (Marlowe)** — Sees him as a big brother figure; he looks out for her
+- **Vrenn** — His older brother; finds Vrenn's humor strange but trusts him completely
+- **Quick Shot** — Professional respect; they cover each other's backs (possibly the same character as "Quickblade" referenced in spinoff notes — not confirmed)
+
+**Combat Notes:** Standard weapons are ineffective against Bruiser. High-explosive, energy, and reality-altering attacks show minimal to no effect. He is the Vanguard's frontline anchor in every mission.
+
+**Quotes:**
+- *"Not friends. Not family. But I'd die for them. If I could."*
+- *"You want my team? You'll have to go through me first."*
+- *"You can't kill what was never alive."*
+- *"I'm not here to win. I'm here to make sure you don't."*
+
+---
+
+## YFP — YOUNG FUTURE PROTECTORS
+
+**What it is:** Owen Taylor Lyons' team. Active in Owen's era (next generation after Isaiah's reign). Episodic missions; team dynamics.
+
+**Base:** YFP Headquarters
+
+**Team Roster (confirmed):**
+- **Owen Taylor Lyons** — Team Leader (Arden-human hybrid, Isaiah's son)
+- **Archer / Aiden Ryder** — Strategic Ranged / Scout
+- **Graphite / Darius Cole Jr.** — Frontline / Tank
+- **Blaze / Blaze Marlowe-Taylor** — Speedster
+- **Jen** — Member (Anita's first daughter, half Arden / half demigod, Isaiah's adopted daughter figure)
+- **Jean** — Teammate (referenced in Graphite and Blaze's sheets)
+- **Skyler** — Teammate (referenced in Blaze's relationship history)
+- **Kayla** — Mentor figure (not confirmed as full member, but based at YFP HQ)
+
+---
+
+## ARCHER / AIDEN RYDER — CHARACTER PROFILE
+
+- **Real Name:** Aiden Ryder
+- **Nickname:** Archer
+- **Age:** 18
+- **Height:** 5'11" (180 cm) / **Weight:** 160 lbs (73 kg)
+- **Species:** Human (Enhanced)
+- **Parents:** Arden Ryder (Father — Vanguard operative, master strategist), Jessica Ryder (Mother)
+- **Affiliation:** YFP
+- **Role:** Strategic Ranged / Scout
+- **Base:** YFP Headquarters
+- **Status:** ACTIVE
+- **Quote:** *"A perfect shot isn't luck. It's choice."*
+
+**Biography:** Son of Arden Ryder, one of Vanguard's most elite operatives and master strategists. Raised in a home built on discipline, patience, and impossible standards — Archer learned early that control is power. He doesn't seek the spotlight. He seeks the best angle. Joined YFP to fight alongside those who want to build a better future without becoming the kind of heroes people fear.
+
+**Abilities:**
+- **Precision Marksmanship:** Peak accuracy at any range; can hit moving targets, weak points, or microscopic gaps with ease
+- **Energy Arrows:** Generates and infuses arrows with different energy types (impact, shock, EMP, fire, or tranquilizer)
+- **Enhanced Perception:** Heightened senses and predictive analysis allow him to anticipate movement and incoming threats
+- **All-Terrain Agility:** Enhanced reflexes, balance, and mobility; can move, climb, and shoot in any environment
+- **Tactical Mind:** Reads situations fast; plans, adapts, and coordinates with his team effortlessly in high-pressure combat
+
+**Weaknesses:**
+- Overthinks in high emotional situations
+- Holds himself to impossible standards
+- Physical strength is below average
+- Vulnerable in close-quarters combat if caught off guard
+- Carries the weight of his father's legacy
+
+**Personality:** Calm, observant, incredibly focused. Speaks when necessary. Listens always. Keeps emotions locked down — until they're not. Loyal to a fault. Struggles with trusting people outside his inner circle.
+
+**Relationships:**
+- **Arden Ryder (Father)** — Trained relentlessly; they respect each other but Archer is still trying to earn his father's approval
+- **Jessica Ryder (Mother)** — His safe place; she sees the pressure he carries and loves him unconditionally
+- **Owen** — Team leader; mutual respect; Archer trusts Owen's judgment and follows his lead without question
+- **Blaze** — Best friend; total opposites (Blaze is chaos, Archer is control); they balance each other perfectly
+- **Graphite** — Teammate; Archer admires Graphite's strength and loyalty; they watch each other's backs
+- **Kayla** — Mentor; helps him see the bigger picture beyond strategy and logic
+
+**Quotes:**
+- *"I don't miss. Not because I'm perfect. Because I decide."*
+- *"People talk too much. I'd rather let my aim do the speaking."*
+- *"One arrow. One choice. One second. That's all it takes."*
+
+---
+
+## GRAPHITE / DARIUS COLE JR. — CHARACTER PROFILE
+
+- **Real Name:** Darius Cole Jr.
+- **Nickname:** Graphite
+- **Age:** 17
+- **Height:** 6'3" (190 cm) / **Weight:** 218 lbs (99 kg)
+- **Species:** War Beast Hybrid (son of Bruiser)
+- **Parents:** Bruiser (Father)
+- **Affiliation:** YFP
+- **Role:** Frontline / Tank
+- **Base:** YFP Headquarters
+- **Status:** ACTIVE
+- **Quote:** *"Strength without control is just destruction waiting for a reason."*
+
+**Biography:** Son of Bruiser, one of Vanguard's most unstoppable War Beasts. Growing up around destruction and chaos, Graphite learned early that power means nothing without discipline. Bruiser raised him with brutal honesty and impossible standards. Graphite loves his father, but he refuses to become a mindless weapon. He joined YFP to prove he can protect without causing more damage than he prevents.
+
+**Abilities:**
+- **Stone Manipulation:** Controls and shapes graphite and stone at a molecular level; can form weapons, armor, and walls
+- **Earthen Guard:** Creates barriers that absorb extreme impact and redirect force
+- **Seismic Impact:** Slams the ground to send shockwaves that disorient and destabilize enemies
+- **Crystal Growth:** Rapidly grows sharp crystal formations from his body for offense or defense
+- **Density Shift:** Increases or decreases body density to become heavier, lighter, or more resistant to attacks
+
+**Weaknesses:**
+- Water weakens his stone composition
+- High-frequency vibrations can disrupt his control
+- Takes longer to recover if his crystals are shattered
+- Holds emotions in until they explode
+- Feels constant pressure trying to live up to his father's legacy
+
+**Personality:** Quiet, observant, slow to trust. Protective to a fault. Struggles with anger and the fear of losing control like his father. Loyal, dependable, willing to take the hits others won't. Dry sense of humor that only comes out around people he truly cares about.
+
+**Relationships:**
+- **Bruiser (Father)** — His biggest influence; wants to earn Bruiser's pride through choice, not fear; they clash often but Bruiser sees his potential
+- **Kayla (Mentor)** — Teaches him control, strategy, and the value of restraint; trusts her guidance more than anyone
+- **Blaze (Best Friend)** — The chaos to his calm; push each other to be better
+- **Owen (Team Leader)** — One of the few who can call Graphite out without starting a fight; they balance each other
+- **Jean (Teammate)** — Solid, reliable; they've got each other's backs
+- **Skyler (Teammate)** — Challenges him to open up and not bottle things inside
+- **Vrenn (Uncle)** — Bruiser's older brother; sees the good in Graphite and offers wisdom when needed
+- **Jen (Close Friend)** — One of the first to see the real him underneath all the stone; they understand each other without words
+
+**Quotes:**
+- *"People think I'm cold. I just don't waste energy on noise."*
+- *"I'm not trying to be my father. I'm trying to be better than him."*
+- *"I don't need to be unbreakable. I need to be unstoppable for the right reasons."*
+
+---
+
+## BLAZE / BLAZE MARLOWE-TAYLOR — CHARACTER PROFILE
+
+- **Real Name:** Blaze Marlowe-Taylor
+- **Nickname:** Blaze
+- **Age:** 19
+- **Height:** 5'11" (180 cm) / **Weight:** 165 lbs (75 kg)
+- **Species:** Human (Enhanced)
+- **Parents:** Ellie Marlowe (Mother), Vrenn (Father)
+- **Affiliation:** YFP
+- **Role:** Speedster
+- **Base:** YFP Headquarters
+- **Status:** ACTIVE
+- **Quote:** *"I move too fast for regret to catch up. Unfortunately... people don't."*
+
+**Biography:** Son of Ellie and Vrenn — two of the most powerful and unpredictable people in the galaxy. He inherited his mother's heart and his father's instincts — the dangerous mix of both. Blaze has super speed, an evolved expression of his father's unstable teleportation physiology. He exists in a constant state of motion — because when he stops, everything he's trying not to feel catches up. He's loud, cocky, funny, and impossible to ignore. Cracks jokes in the middle of a fight and pushes limits — his, the team's, everyone's. He cares deeply about the people he calls family, even if he's terrible at showing it.
+
+**Speed Origin Note:** Blaze's super speed is an evolved expression of Vrenn's unstable teleportation physiology — the power mutated across generations into pure speed.
+
+**Abilities:**
+- **Super Speed:** Moves at extreme velocities; can break the sound barrier, cross long distances in seconds, react faster than the human eye
+- **Momentum Shift:** Manipulates his movement to change direction instantly; extremely difficult to hit; capable of impossible maneuvers
+- **Thermal Trail:** High-speed movement generates intense friction; can channel and release this heat in controlled bursts
+- **Speed Adaptation:** Body adapts to extreme speed by evolving at a cellular level; constantly pushes his limits
+
+**Weaknesses:**
+- Overuse causes severe friction burns and muscle tearing
+- Needs constant calories and hydration to maintain high-speed output
+- Emotional instability affects his control — anger, guilt, or fear can cause dangerous mistakes
+- Has a hard time slowing down — mentally and physically
+
+**Personality:** Impulsive, reckless, competitive. Uses humor and arrogance to hide how much he actually feels. Loyal to his team — would die for them. Terrified of disappointing the people he loves most. Craves freedom but hates consequences.
+
+**Relationship History (key arc):**
+- **Jen (Ex-girlfriend):** They dated. It was real. It meant something. Then Blaze cheated on Jen with Skyler. Jen walked in on them. Everything changed. The team took sides. Ellie was deeply ashamed of Blaze. He has been trying to earn back what he lost ever since.
+- **Skyler:** Real chemistry, real connection — but it came at the cost of everything else. Jen and Skyler's relationship has been complicated since.
+
+**Relationships:**
+- **Ellie (Mother)** — Loves him more than anything; was deeply ashamed of him after the incident; he's trying to make her proud again
+- **Vrenn (Father)** — Sees too much of himself in Blaze; their bond is complicated, full of understanding and frustration
+- **Owen (Team Leader)** — The steady one Blaze looks up to; Owen pushes Blaze to be better, even when Blaze hates it
+- **Jean (Teammate)** — Closest friend on the team; they fight, they argue, but they'd both take a bullet for the other
+- **Kai (Best Friend)** — Chaos duo; one of the few who sees past Blaze's acts and knows who he really is
+- **Jen (Ex)** — Still cares about her; broke her trust; trying to earn her respect back if she'll let him
+- **Archer (Best Friend)** — Total opposites; the calm to Blaze's chaos; they balance each other perfectly
+
+**Quotes:**
+- *"I don't run from people. I run because standing still hurts."*
+- *"Sometimes I wish I could just slow down... but I don't know who I'd be if I did."*
+- *"I can't change the past. But I can decide who I become next."*
+
+---
+
+## VRENN — EXPANDED PROFILE
+
+*(Previously in autocorrect table as "Bryn / Verrn / YN → Vrenn." Now expanded.)*
+
+- **Real Name:** Vrenn
+- **Relation to Bruiser:** Vrenn is Bruiser's *older* brother — making him Graphite's uncle
+- **Partner:** Ellie Marlowe — together they had Blaze
+- **Son:** Blaze Marlowe-Taylor
+- **Power:** Unstable teleportation physiology — across generations, this evolved into Blaze's super speed
+- **Affiliation:** Referenced in Bruiser's Vanguard relationships (Bruiser trusts him completely despite finding his humor strange)
+- **Note:** Vrenn is both Blaze's father AND Graphite's uncle by blood, meaning Blaze and Graphite are cousins
+
+---
+
+## NEW SUPPORTING CHARACTERS (YFP / VANGUARD ERA)
+
+### Arden Ryder
+- **Role:** Vanguard operative and master strategist; Archer's father
+- **Species:** Arden (implied by name/context)
+- **Traits:** Elite, disciplined; raised Archer with impossible standards; they respect each other but Archer is still earning his approval
+- **Affiliation:** Vanguard
+
+### Jessica Ryder
+- **Role:** Archer's mother
+- **Traits:** Archer's safe place; sees the pressure he carries and loves him unconditionally
+
+### Ellie Marlowe
+- **Role:** Blaze's mother; one of the most powerful and unpredictable people in the galaxy
+- **Partner:** Vrenn (Blaze's father)
+- **Relationship with Bruiser:** Sees Bruiser as a big brother figure; Bruiser looks out for her
+- **Post-incident:** Was deeply ashamed of Blaze after the cheating incident; he is working to make her proud again
+
+### Kayla
+- **Role:** YFP Mentor — appears in both Archer's and Graphite's sheets
+- **Function:** Helps Archer see the bigger picture beyond strategy and logic; teaches Graphite control, strategy, and the value of restraint
+- **Status:** Based at YFP Headquarters
+
+### Jean
+- **Role:** YFP teammate
+- **Mentioned in:** Graphite's sheet (solid, reliable, they've got each other's backs); Blaze's sheet (closest friend, fight and argue but would take a bullet for each other)
+
+### Skyler
+- **Role:** YFP teammate
+- **History:** Was involved with Blaze while he was dating Jen; Jen walked in on them; the team took sides; her relationship with Jen has been complicated ever since
+- **Noted trait:** She and Blaze had real chemistry, real connection
+- **Function on team:** Challenges Graphite to open up and not bottle things inside
+
+### Kai
+- **Role:** Blaze's best friend (not listed as YFP member — possibly external)
+- **Trait:** Chaos duo with Blaze; one of the few who sees past Blaze's acts to who he really is
+
+### Quick Shot
+- **Role:** Vanguard operative
+- **Relationship with Bruiser:** Professional respect; they cover each other's backs
+- **Note:** May be the same character as "Quickblade" referenced in the spinoff series description ("Owen + Quickblade + teammates") — unconfirmed; do not merge until confirmed
+
+---
+
+## UPDATED IRONCLAD RULES (PART IV ADDITIONS)
+
+18. **Magnus is OMEGA-class (Extinction Level threat)** — confirmed via character sheet. He is 10,000+ years old, survived every attempt to stop him, and is still active into Owen's era. He is one of the few threats that has never been fully defeated.
+
+19. **Blaze cheated on Jen with Skyler.** This is confirmed canon from Blaze's character sheet. It is a core character-defining event that fractured the team. It must not be retconned. Jen did not forgive easily. The team took sides.
+
+20. **Blaze's super speed is Vrenn's teleportation evolved** — Vrenn has an unstable teleportation physiology; across generations this became pure speed in Blaze. This is canon science for how the power transferred.
+
+21. **Bruiser is Vrenn's younger brother** — meaning Graphite (Bruiser's son) and Blaze (Vrenn's son) are cousins. This family connection is canon.
+
+22. **Quick Shot ≠ confirmed same as Quickblade** — do not assume they are the same character until the user confirms it.
+
+---
+
+## UPDATED AUTOCORRECT TABLE (PART IV ADDITIONS)
+
+| If you see... | It means... |
+|---|---|
+| Aiden | Archer (Aiden Ryder) — or the name itself if context is clear |
+| Darius | Graphite (Darius Cole Jr.) |
