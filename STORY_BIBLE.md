@@ -55,8 +55,8 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 | Atlas | Supporting | Arden (Enhanced) | Magnus' chief researcher | DECEASED |
 | Peter | Supporting | Arden (Enhanced) | Magnus' elite guard / assistant | DECEASED |
 | Philip Morgan | Supporting | Arden-human hybrid | Owen and Jen's son; future superhero | ALIVE |
-| Vrenn | Supporting | Unknown | Bruiser's older brother; Blaze's father | ALIVE |
-| Ellie Marlowe | Supporting | Unknown | Blaze's mother | ALIVE |
+| Vrenn | Supporting | Human (reconstructed) | Blaze's father; Bruiser's brother; Vanguard Strike/Recon | ALIVE |
+| Ellie Marlowe | Supporting | Human (Enhanced) | Blaze's mother; Isaiah's protégé; Vanguard operative | ALIVE |
 | Kayla | Supporting | Unknown | YFP mentor | ALIVE |
 | Jean | Supporting | Unknown | YFP teammate | ALIVE |
 | Skyler | Supporting | Unknown | YFP teammate | ALIVE |
@@ -70,7 +70,7 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 | Ethan | Background | Human | Taylor's abusive ex | ALIVE (jaw shattered) |
 | Arden Ryder | Background | Arden | Vanguard operative; Archer's father | ALIVE |
 | Jessica Ryder | Background | Human | Archer's mother | ALIVE |
-| Kai | Background | Unknown | Blaze's best friend | ALIVE |
+| Kai Marlowe | Background | Human | Ellie and Vrenn's younger son; Blaze's little brother (age 4) | ALIVE |
 | Quick Shot | Background | Unknown | Vanguard operative (possibly = Quickblade) | ALIVE |
 
 ---
@@ -185,6 +185,7 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 - Perfect Arden memory — remembers every second from the moment of birth
 - Caloric need at birth: ~3,000 cal/day (increases dramatically with age)
 - Will grow stronger with age (Arden pattern)
+- **Telepathy** — confirmed via Vrenn's character sheet (Vrenn lists Owen as "Telepath"); full extent not yet established
 
 **Personality at age 7 (Part 6):**
 - Serious and confident as a baseline
@@ -441,7 +442,7 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 - Has been trying to earn back what he lost ever since
 - Still cares about Jen; broke her trust; working to earn her respect back
 
-**Key Relationships:** Jen (ex — still cares deeply, caused real damage), Vrenn (father — complicated; sees too much of himself in Blaze), Ellie (mother — loves him, was deeply ashamed), Owen (team leader — the steady one Blaze looks up to), Archer (best friend — total opposites; the calm to his chaos), Graphite (best friend — his chaos meets Graphite's calm), Jean (closest teammate — fight, argue, but would take bullets for each other), Kai (best friend outside team — the chaos duo)
+**Key Relationships:** Jen (ex — still cares deeply, caused real damage), Vrenn (father — complicated; sees too much of himself in Blaze), Ellie (mother — loves him, was deeply ashamed), Owen (team leader — the steady one Blaze looks up to), Archer (best friend — total opposites; the calm to his chaos), Graphite (best friend — his chaos meets Graphite's calm), Jean (closest teammate — fight, argue, but would take bullets for each other), Kai (little brother, age 4 — the chaos duo; calls him his best friend; loves him unconditionally regardless of what Blaze has done)
 
 **Quotes:** *"I move too fast for regret to catch up. Unfortunately... people don't."* / *"I don't run from people. I run because standing still hurts."* / *"I can't change the past. But I can decide who I become next."*
 
@@ -582,20 +583,80 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 ### Vrenn
 
 - **Autocorrect:** "Bryn / Verrn / YN" in transcript → always means Vrenn
-- **Relation to Bruiser:** Vrenn is Bruiser's **older** brother — making him Graphite's uncle
-- **Partner:** Ellie Marlowe — together they had Blaze
-- **Son:** Blaze Marlowe-Taylor
-- **Power:** Unstable teleportation physiology — evolved into Blaze's super speed across generations
-- **Family connection:** Vrenn is both Blaze's father AND Graphite's uncle, meaning Blaze and Graphite are **cousins**
+- **Real Name:** Vrenn
+- **Age:** 25 (⚠ see age flag in Ironclad Rules — Blaze is 19; discrepancy noted)
+- **Height:** 6'0" (183 cm) / **Weight:** 175 lbs (79 kg)
+- **Species:** Human (reconstructed) — virtually every system in his body has been replaced
+- **Affiliation:** Vanguard / **Role:** Strike / Recon / **Base:** Ardenis System
+- **Clearance:** OMEGA BLACK / **ID:** VG-77-VRN
+
+**Origin:** Kidnapped at a young age by a black-site organization known as **PROJECT: INTERVAL**. Subjected to years of brutal procedures — organs, bones, nervous system, and blood chemistry replaced with synthetic and hybrid systems. The goal: create the perfect human asset. The result: something that should never have existed.
+
+**Physical Reconstruction (complete):**
+- **Skeletal Structure:** Replaced with carbon-titanium lattice — extremely dense and impact-resistant
+- **Organs:** Synthetic replacements; enhanced efficiency; zero fatigue; minimal empathy response
+- **Nervous System:** Rewired for high-speed processing and spatial calculation
+- **Circulatory System:** Engineered blood filtration and oxygenation; toxin resistant
+- **Muscle Fibers:** Bio-synthetic weave; high output, low recovery time
+- **Visor/Optical Ports:** Modified optical receptors; enhanced low-light and motion tracking; long-term use causes severe ocular strain and migraines
+
+**Abilities:**
+- **Teleportation:** Instantly displaces himself across short to long distances; range limited by focus, mental stability, and body condition
+- **Enhanced Durability:** Body rebuilt to withstand extreme teleportation stress; superior resistance to impact, heat, toxins, and trauma
+
+**Limitations:**
+- Teleportation causes extreme internal stress — chronic pain and organ strain
+- Overuse causes internal bleeding, seizures, or temporary paralysis
+- Dependent on experimental nanite-regulated systems — failure could be fatal
+- Suffers from insomnia, migraines, and dissociation episodes
+- *"Every jump tears something inside me. Every landing puts it back — barely."*
+
+**The Cost:** Chronic pain at the cellular level | Phantom sensations from removed organs | Emotional responses are muted | Memory gaps from neural restructuring | Feels everything. Processes nothing. Still human. Barely.
+
+**Personality:** Rarely speaks about his past. Does not seek revenge — seeks purpose. Fights so that the things done to him are never done to anyone else again.
+
+**Appearance:** Yellow and black tactical suit with hood; visor/optical ports over eyes (gold/yellow lenses); looks like someone built to be a weapon
+
+**Family:**
+- **Partner:** Ellie Marlowe (partner, not just co-parent — they balance each other; he's the shield, she's the light that keeps him human)
+- **Son (older):** Blaze Marlowe-Taylor (age 19)
+- **Son (younger):** Kai Marlowe (age 4)
+- **Brother:** Bruiser (Vrenn is the older brother)
+
+**Key Relationships:** Isaiah (Vanguard Leader — brother in purpose) | Owen (closest thing to a best friend; Owen is a telepath) | Lucia Valdor (bloodline; trust earned, not given) | Ellie (partner — she healed him)
+
+**Quote:** *"I didn't choose to be remade. But I chose to make it mean something."* / *"I used to be a child. Now I'm a weapon. One day, maybe... I'll be more."*
 
 ---
 
 ### Ellie Marlowe
 
-- **Role:** Blaze's mother; one of the most powerful and unpredictable people in the galaxy
-- **Partner:** Vrenn (Blaze's father)
-- **Relationship with Bruiser:** Sees Bruiser as a big brother figure; Bruiser looks out for her
-- **Post-incident:** Was deeply ashamed of Blaze after he cheated on Jen; Blaze is working to make her proud again
+- **Real Name:** Ellie Marlowe
+- **Age:** 21 / **Height:** 5'6" (168 cm) / **Weight:** 128 lbs (58 kg)
+- **Species:** Human (Enhanced)
+- **Affiliation:** Vanguard / **Role:** Tactical Support / Field Operative / **Base:** Ardenis Station
+
+**Biography:** Ellie never knew her father. Her mother died when she was eight, leaving her alone in a world that didn't make space for kids without names. **Isaiah found her during a Vanguard outreach mission when she was twelve** — angry, and already better at survival than most adults. He didn't take her in out of pity; he saw something worth protecting. Something worth believing in. Ellie trained under Isaiah for years, becoming one of Vanguard's most adaptable operatives. Taylor didn't like it at first — didn't like that Ellie looked at Isaiah like he was everything she never had. But once she learned their connection, she understood. Now Ellie fights beside them. Not as a replacement. As family.
+
+**Abilities:**
+- **Enhanced Agility:** Peak human speed, reflexes, and acrobatic capability
+- **Tactical Intelligence:** Exceptional battlefield awareness and strategy adaptation
+- **Firearms Mastery:** Expert in a wide range of weapons and close-quarters combat
+- **Tech Specialist:** Skilled in hacking, systems bypass, and field tech improvisation
+- **Emotional Resilience:** Years of adversity built unbreakable mental strength and empathy
+
+**Personality:** Fiercely loyal. Protective to a fault. Witty, stubborn, always pushing boundaries. Hides deep insecurities behind sarcasm and confidence. Values family above everything. Hates feeling like someone's burden.
+
+**Family:**
+- **Partner:** Vrenn
+- **Son (older):** Blaze Marlowe-Taylor (age 19)
+- **Son (younger):** Kai Marlowe (age 4)
+
+**Key Relationships:** Isaiah (Mentor — the man who never stopped showing up) | Taylor (Sister, ally — earned trust, earned love) | Vrenn (Partner — the man who sees her heart; *"He thought he was protecting me. I think... I healed him."*) | Bruiser (sees him as a big brother figure; he looks out for her)
+
+**Post-Blaze-incident:** Was deeply ashamed of Blaze after he cheated on Jen; Blaze is working to make her proud again
+
+**Quotes:** *"I don't need a hero. I needed someone who stayed."* / *"I don't want to be saved. I want to stand with the people who never left."* / *"I'm not just keeping up. I'm changing the game."*
 
 ---
 
@@ -675,7 +736,7 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 
 **Jessica Ryder** — Archer's mother; his safe place; sees the pressure he carries and loves him unconditionally
 
-**Kai** — Blaze's best friend (possibly outside YFP); chaos duo; one of the few who sees past Blaze's acts to who he really is
+**Kai Marlowe** — Ellie and Vrenn's younger son (age 4); Blaze's **little brother**. Always asks why. Likes spaceships, lightning (like dad), and pink (like mom). A bright, energetic kid — the light of both his parents' worlds. Blaze calls him his "best friend" and "chaos duo" — the little brother who loves Blaze unconditionally regardless of what he's done, which makes him one of the few people who truly sees past Blaze's acts
 
 **Quick Shot** — Vanguard operative; professional respect with Bruiser; they cover each other's backs. *POSSIBLY the same character as "Quickblade" referenced in the spinoff notes — NOT confirmed; do not merge until user confirms.*
 
@@ -795,16 +856,28 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 
 ---
 
-### Hell Puppy
+### Hell Puppy *(Infernis Canis)*
 
-- **Height:** 11 feet tall (males); females larger and stronger (~15–16 feet)
-- **Skin:** Magma-like; fire mode: red/orange eyes, steam rising from body; water mode: skin extinguishes immediately, eyes turn BLUE
+- **Class:** Magmabeast
+- **Height:** Males ~7 ft (2.1 m) at shoulder; Females ~10 ft (3.0 m) at shoulder (females are larger, stronger, and more aggressive)
+- **Weight:** Males 850–1,200 lbs (385–545 kg); Females 1,500–2,000 lbs (680–910 kg)
+- **Skin:** Superheated volcanic dermis — Magma Skin; fire mode: eyes burn orange/red; water mode: magma extinguishes instantly, eyes turn BLUE fire; skin cools but remains incredibly tough
 - **Semi-aquatic:** Functions in water and on land
-- **Body structure:** Quadrupedal, elongated predatory head, muscular, long tail
-- **Pack structure:** 1 female alpha (stronger, bigger, social, strategic) + 3–4 males (smaller, more aggressive, antisocial). Males CANNOT function without the female giving commands — they freeze, won't hunt, won't defend themselves.
-- **Female death protocol:** When female alpha dies → males release pheromones → largest/strongest male slowly transforms into female over days → during transformation: pack completely helpless (no commands, no hunting, won't fight back; vulnerable to attack; starving) → new female emerges → pack is battered and desperate
-- **Desperate migration:** Starving packs migrate to lesser planets (e.g., Earth); hunt large megafauna (African elephants) to regain strength; once recovered, return home
-- **Diet:** Large animals — elephants, blue whales, alien megafauna
+- **Body structure:** Quadrupedal, elongated predatory head, muscular, long tail; blade-like magma barbs; molten fissures throughout body; heat vents along spine; magma drips when enraged
+- **Habitat:** Volcanic worlds — ashen plains, lava fields, impact craters
+- **Pack structure:** 1 female alpha + 2–3 males. Males CANNOT function without the female's commands — they freeze, won't hunt, won't defend themselves.
+- **Female death protocol (8 stages):**
+  1. Female dies; pack stops hunting; they do not leave; they simply wait and starve
+  2. Largest male begins painful transformation over days
+  3. Transformation process: body shifts; magma restructures; grows
+  4. New female emerges — 3 ft taller, stronger, smarter, far more aggressive; pack nearly dead from starvation
+  5. New female leads pack to a life-rich planet (e.g., Earth) to hunt
+  6. Pack hunts large prey (African elephants) with brutal efficiency and coordination
+  7. Strength restored; pack whole again; prepare to leave
+  8. Return home to volcanic world; cycle begins anew
+- **Behavior & Intelligence:** Extremely intelligent — understands strategy, deception, long-term planning; deeply loyal to the pack and alpha female; communicate through low-frequency growls and body signals; will never abandon a fallen pack member
+- **Diet:** Large territorial megafauna (elephants, alien megabeasts)
+- **Weaknesses:** Water extinguishes magma skin (temporary); extreme cold can slow regeneration; starvation weakens entire pack; destruction of the alpha causes pack collapse
 - **Naming note:** Named "Hell Puppy" — are not small, cute, or puppy-like in any way
 
 ---
@@ -846,6 +919,65 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 - **Habitat:** Large jungle areas / **Social:** Herds of up to 150 / **Diet:** Herbivore (eats forest canopy, alien mega-flora)
 - **Environmental impact:** Each footstep creates craters; herd migration physically reshapes landscapes
 - **Story role:** A herd trampled Lucky's entire colony overnight — Lucky was the sole survivor, found nearly being stomped by Owen
+
+---
+
+### War Titans
+
+- **Species Name:** War Titans
+- **Origin:** Kharod Prime (homeworld destroyed)
+- **Average Height:** 12–18 ft (3.6–5.4 m) / **Mass:** 2–4 tons
+- **Lifespan:** 4,000–12,000 Standard Years
+- **Current Status:** Interstellar Empire (nomadic after homeworld's destruction)
+- **Alignment:** Neutral — Strength Above All
+
+**Overview:** An ancient sapient species engineered by evolution and war itself. Forged in the crucible of a dead world, they emerged not as survivors but as conquerors. To them, conflict is not chaos — it is the great purifier, the path to ascension, and the truest expression of existence.
+
+**Physical Profile:**
+- Dense layered plating provides natural armor against nearly all known weapons
+- Four-lung respiratory system allows function in extreme environments
+- Biochemical adrenaline glands grant immense strength while increasing durability
+- Multiple impact-redirecting muscles; resistant to blunt trauma, disease, and extreme temperatures
+- Blade-like magma barbs | Heat vents along spine | Eyes burn orange/red fire (blue in water) | Magma drips when enraged
+
+**Biology:** Blood Type: Ferric-based / Deep Iron Red | Reproduction: Asexual clutch (rare; ~4 offspring) / Artificial incubation | Metabolism: Extremely efficient | Pain Tolerance: Extremely high | Regeneration: Moderate (slower than Stalkers)
+
+**Culture & Society:**
+- Bound by the **Doctrine of Eternal Struggle** — believe all things must be challenged and tested; weakness is failure
+- War is not stagnation; war is ascension
+- Organize into **Legions** with strict military philosophical orders pursuing strength, knowledge, and territory
+- Each Legion is led by a **Warmaster** who commands absolute loyalty until defeated
+
+**The Titan Code:** Strength is Purpose | Honor in Battle | Death in Service | Adapt, Improve — Evolve or be erased | Conquer when necessary
+
+**Legion Structure:**
+- **Warmaster:** Supreme commander of a Legion; strongest and most strategic
+- **Siege-Lord:** Commanders of fortresses, plateaus, and planetary assault
+- **Stone-Bound:** Elite warriors; backbone of every Legion
+- **Iron-Born:** Younger warriors who have yet to prove themselves
+
+**Titan Variants:**
+- **Stone Titan:** Defensive specialists; masters of fortification and siege warfare
+- **Blood Titan:** Offensive berserkers; abandon all tactics in close combat
+- **Void Titan:** Psionic warriors; manipulate battlefield and enemy minds
+- **Iron Titan:** Masters of machines, technology, and war engines
+- **Storm Titan:** Full assault units; work best in coordinated units
+
+**Technology & Warfare:** Well-forged weapons | Colossal war machines | Planetary siege engines | Advanced psionic tools | Starship fleets built for war
+
+**Relations with Other Species:**
+- Arden: Respect their resilience and longevity; view their politics as weak
+- Vex: Viewed as a plague; extermination is the only acceptable option
+- Humans: Considered ambitious but unevolved; some Legions test humanity through conflict
+- Stalkers: A natural enemy; their adaptability is seen as an abomination
+
+**Homeworld: Kharod Prime (DESTROYED):** Endless civil wars and nuclear catastrophe left the planet barren. The Titans survived and rose from the ashes. They do not seek another world — they simply wait... and grow stronger.
+
+**Notable Facts:** Have fought in wars lasting centuries | Do not fear death — only being forgotten | Raised in artificial crucibles; only the strongest survive | A Titan's name is earned, not given
+
+**Connection to Main Story:** Magnus lists War Titans in his known enemies: "fought him; died trying." An entire civilization of apex warriors went to war with Magnus and lost.
+
+**Proverb:** *"We do not fight for hate. We do not fight for glory. We fight because without war, there is only nothing."*
 
 ---
 
@@ -983,7 +1115,28 @@ Ring I (Youngbloods) → Ring II (First Blood Warriors) → Ring III (Enforcemen
 
 **The Vex Planet "Utopia"** — Location of Part 5's main arc; desert environment; sandworm attack; bar where Isaiah counseled Johnny; where Owen was born; Vex population rebuilt from 49 → ~200
 
-**Arden (Planet)** — ~900 quintillion miles from Earth; home planet of the Arden species; not yet visited in the transcript arcs covered
+**Ard'a (Arden Home Planet)** — Official name: **Ard'a**. Located in the Ardenis System, ~900 quintillion miles from Earth. Class M Super-Earth (diameter 13,026 km, gravity 1.05G, 24-hour day, 365-day year, 78% N / 21% O atmosphere, mean temp 19°C, one moon).
+
+*Capital City:* **Azrath Prime** — Imperial Capital; political and cultural heart of the Arden Empire. Other major cities: Vorlis (industrial/military production), Eiran (education/research/science), Kaldor (greatest warrior academies and training grounds), Lorven (arts, trade, diplomacy).
+
+*Key Locations:* Arden Imperial Palace | The Great Plains (farmlands that feed the empire) | The Silent Mountains (isolation monasteries for warrior training) | The Western Ocean (galactic trade routes) | The Ancestral Ruins (ruins from the first era of Arden civilization)
+
+*Planet Data:* Surface composition: 47% Rock, 25% Water, 8% Land Mass | Population: ~4.2 billion (⚠ this represents a peak/stable-era population — the main story takes place after massive population collapse to ~1,000 survivors due to the Great Disease and Pink War) | Tech Level: Type IV Civilization | Military: One of the strongest in known space (Imperial Army, Special Forces, Space Fleet Command, Planetary Defense Grid, Ancient Weapon Facilities)
+
+*Society:* Imperial Monarchy. Language: Gal'ndian (Common), translated universally. Currency: Ardenis Credit (AC). Built on honor, strength, loyalty, and legacy — families and bloodlines are everything.
+
+*History:* ~50,000 years ago: Empire expands beyond Ard'a into the stars | ~200 years ago: First contact with Earth (USS — United Space Service or similar Earth alliance) | Present: Ard'a stands as a galactic power protecting its people and legacy
+
+*Allies:* USS (Earth), Select Frontier Worlds | *Rivals:* Vex Empire, Rogue Factions, Unknown Deep-Space Threats
+
+*Notable Figures (Ard'a lore):*
+- **Emperor Azrath XIX** — Current/historical ruler of the Arden Empire; wise but unforgiving
+- **Isaiah of Ard'a** — His official Arden title; legendary warrior and hero of numerous battles
+- **Anita** — Listed as Empress of the Ardens (during her era)
+- **Luca/Lucia Valdor** — Supreme Commander of the Imperial Army (the "Luca" spelling may be a transliteration of Lucia — likely the same as Lucia Valdor referenced in Vrenn's character sheet; confirm with user)
+- **Elizabeth Valdor** — High General and Strategist; loyal to the empire above all (⚠ distinct from Elizabeth Hammond — Isaiah's human mother; this is a separate character)
+
+*Quote:* *"We are not born to rule. We are born to protect what is ours."* — Emperor Azrath I
 
 **Celestial Plant's Origin Planet** — ~900 billion miles from Earth (different planet from Arden); where Isaiah retrieved Taylor's gift plant; plant characteristics: blue, pink, and yellow flowers; nearly indestructible
 
@@ -1223,6 +1376,18 @@ All rules permanent and non-negotiable unless the user explicitly states otherwi
 
 22. **Quick Shot ≠ confirmed same as Quickblade.** Do not assume they are the same character until the user confirms it.
 
+23. **Kai Marlowe is Blaze's little brother, not an outside friend.** Kai (age 4) is Ellie and Vrenn's younger son, making him Blaze's little brother. The "chaos duo / best friend" description in Blaze's sheet refers to this sibling relationship.
+
+24. **Owen is a telepath.** Confirmed via Vrenn's character sheet. Full extent of the ability is not yet established — do not define its limits until the user does.
+
+25. **Lucia's official surname is Valdor.** Referenced as "Lucia Valdor" in Vrenn's sheet. The Ard'a planet sheet lists "Luca Valdor" as Supreme Commander of the Imperial Army — likely the same character (transliteration difference). Confirm with user.
+
+26. **Elizabeth Valdor ≠ Elizabeth Hammond.** The Ard'a planet sheet lists "Elizabeth Valdor" as High General and Strategist. She is a separate character from Isaiah's mother Elizabeth Hammond (Philip's wife). Do not conflate them.
+
+27. **Vrenn age discrepancy flagged (do not resolve without user).** Vrenn is listed as 25 years old, but his son Blaze is 19. Biologically impossible at face value. Possible explanations: (a) Vrenn's body reconstruction by PROJECT: INTERVAL altered his biological aging, so "25" represents apparent/biological age, not birth age; (b) the sheets were made at different times with inconsistent assumptions. Do not correct either age until the user weighs in.
+
+28. **Ard'a's 4.2 billion population and the ~1,000 Ardens in the main story are different eras.** The planet sheet represents a peak/stable-era population. The main story takes place after massive population collapse (Great Disease of 1855 + Pink War). Both figures are canon.
+
 ---
 
 ## AUTOCORRECT TABLE
@@ -1240,3 +1405,4 @@ The transcript was composed via voice-to-text and contains systematic autocorrec
 | Alaric | Does NOT exist — was a mistaken AI correction; the character's name is Atlas |
 | Aiden | Archer (Aiden Ryder) — or the name itself if context is clear |
 | Darius | Graphite (Darius Cole Jr.) |
+| Luca Valdor | Likely Lucia Valdor (same character; transliteration difference) — confirm with user |
