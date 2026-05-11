@@ -27,8 +27,8 @@
 **Genre:** Superhero / Sci-Fi / Generational Drama
 **Tone:** Comparable to *Logan* (2017), *The Last of Us*, *Children of Men*, *Blade Runner 2049*
 **Format:** Screenplay-adjacent prose — character names in **bold**, stage directions in *italics*
-**Timeline:** 2016–2100 (84 years in-universe); extends to year 9090 for the Philip/Elizabeth death arc
-**Generational Arc:** Philip Sr. → Isaiah → Owen Taylor Lyons → Philip Morgan
+**Timeline:** 2016–2100 (84 years in-universe); extended timeline events exist in the far future (Philip Sr. retirement and death, the 1-million-year arcs)
+**Generational Arc:** Philip Sr. (Emperor → retired → killed by rogue soldier) → Isaiah (Emperor) → Owen Taylor Lyons (Emperor) → Philip Morgan
 
 The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid raised on Earth, through his young adulthood, fatherhood, and the long arc of a universe that wants to use him as a breeding tool. He refuses every time. He and his son Owen will live to approximately 1 million years old.
 
@@ -50,8 +50,8 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 | Graphite / Darius Cole Jr. | Main | War Beast Hybrid | YFP Tank; Bruiser's son | ACTIVE |
 | Blaze / Blaze Marlowe-Taylor | Main | Human (Enhanced) | YFP Speedster; son of Vrenn and Ellie | ACTIVE (critical condition after Magnus/Anita battle) |
 | Hope Lyons | Main | Arden-human hybrid | Isaiah and Taylor's daughter; Owen's sister | ALIVE |
-| Philip Hammond Sr. | Main | Arden (pureblooded) | Isaiah's father; generational patriarch | **DECEASED** (killed by Magnus taking blow meant for Isaiah) |
-| Elizabeth Hammond | Main | Human | Isaiah's mother; Philip's wife | DIES 3 days after Philip Sr. |
+| Philip Hammond Sr. | Main | Arden (pureblooded) | Isaiah's father; former Emperor; generational patriarch | **DECEASED** (killed by rogue soldier in retirement) |
+| Elizabeth Hammond | Main | Human | Isaiah's mother; Philip's wife | **DECEASED** (unknown causes, 3 days after Philip) |
 | Lucky | Main | Stalker (rare black mutation) | Owen's companion; co-parent to Philip Morgan | ALIVE |
 | Atlas | Supporting | Arden (Enhanced) | Magnus' chief researcher | DECEASED |
 | Peter | Supporting | Arden (Enhanced) | Magnus' elite guard / assistant | DECEASED |
@@ -489,12 +489,16 @@ Archer was the **first YFP casualty**. His death broke the team's morale and dir
 ### Philip Hammond Sr.
 
 - **Species:** Arden (pureblooded)
-- **Role:** Isaiah's father; first-generation immigrant to Earth; generational arc beginning
-- **Age at story's end:** approximately 150 years old (confirmed ALIVE at story close)
-- **Death:** Killed by a rogue soldier in year **9090** on an isolated beautiful planet he and Elizabeth retired to in an unknown galaxy
+- **Role:** Isaiah's father; first-generation immigrant to Earth; generational arc beginning; **former Emperor of the Arden Empire** (before Isaiah)
+- **Death:** Killed by a rogue soldier on an isolated, beautiful planet in an unknown galaxy — the planet he and Elizabeth had retired to for silence and peace
+- **Elizabeth's death:** Died of unknown causes three days after Philip; she didn't survive losing him
+- **Legacy consequence:** Philip's death is what allowed — and required — Isaiah to step up as the new Arden Emperor
 - **Key action:** Caught Taylor's father's mid-swing punch when her parents arrived believing Isaiah was abusive
 - **Emotional:** Cried holding Owen — his grandchild — when he and Elizabeth arrived at the Vex planet 3 days after the birth
 - **Legacy:** Described as "more perfect than Philip anyway" (Isaiah surpassed his father's baseline); Philip is emotionally present but gave Isaiah a hardened, strict childhood; Isaiah chose differently for Owen
+
+**Imperial arc:**
+Philip became Emperor of the Arden Empire before Isaiah. At some point — after the main story's primary conflicts — Philip and Elizabeth retired together to an isolated planet in an unknown galaxy to live in silence and peace. A rogue soldier found them and killed Philip. Elizabeth died three days later (unknown causes; she simply did not survive losing him). These two deaths opened the path for Isaiah to become Emperor.
 
 **Visual design (CANON — confirmed):** Distinguished mid-50s appearance (150+ years old), dark hair with silver temples, strong jaw, dark eyes, black blazer/suit, wedding ring
 
@@ -1500,14 +1504,12 @@ Owen, Blaze, Skylar, Granite, Terra, Quickblade
 
 **Three-generations gathering:**
 - Isaiah gathered the family: Taylor, Hope, Lucia, Owen, Jen, baby Philip
-- Owen asked Isaiah directly how Philip Sr. died
-- Isaiah revealed the truth: *"He died fighting Magnus. Twenty years ago. The same battle where I 'killed' Magnus. Except I didn't kill him. I just broke his neck. And he played dead. And my father... my father took a killing blow meant for me. And I couldn't save him."*
-- Isaiah had carried the guilt for 20 years — believing Magnus was dead all along, while Magnus was alive and preparing to return
-- Isaiah held baby Philip: *"Your great-grandfather would have LOVED you... I'll do my best to teach you what he taught me."*
+- Isaiah held baby Philip — named after his father — and wept: *"Your great-grandfather would have LOVED you... I'll do my best to teach you what he taught me."*
 - Three generations connected: Isaiah + Owen + baby Philip
+- Note: The "Isaiah reveals Philip died fighting Magnus" dialogue was an earlier draft and is NOT canon. Philip's death was by rogue soldier, after his reign as Emperor, in retirement.
 
-**Philip Sr.'s real death — correction of prior canon:**
-Philip Hammond Sr. was NOT killed by a rogue soldier in year 9090. He was killed by Magnus approximately 20 years before Owen's era — he stepped into a killing blow meant for Isaiah. The "year 9090 rogue soldier" storyline is superseded by this canonical transcript revelation. See Rule 32.
+**Philip Sr.'s death — confirmed canon:**
+Philip Hammond Sr. became Emperor of the Arden Empire before Isaiah. After his reign, he and Elizabeth retired to a remote planet. He was killed by a rogue soldier; Elizabeth died of unknown causes three days later. Their deaths are what created the vacancy that Isaiah stepped into as the new Emperor. See Rule 12.
 
 **Magnus/Anita battle vs. YFP:**
 - Magnus (revealed to be alive — played dead for 20 years after Isaiah broke his neck) teamed up with Anita
@@ -1520,9 +1522,12 @@ Philip Hammond Sr. was NOT killed by a rogue soldier in year 9090. He was killed
 ### Story Ending Arc — The Far Future
 
 **Philip Sr. and Elizabeth:**
-- ⚠ **DEATH CANON CORRECTED — See above.** Philip Sr. was killed by Magnus ~20 years before Owen's era, not in year 9090 by a rogue soldier.
-- Elizabeth's death (three days after Philip Sr.) — her fate remains tied to his; the specific year/circumstances of her death may need user re-confirmation given this correction
-- Isaiah and Taylor are devastated by both losses
+- Philip Sr. became Emperor of the Arden Empire; later stepped away to retire in silence
+- He and Elizabeth moved to an isolated beautiful planet in an unknown galaxy
+- A rogue soldier found and killed Philip Sr.
+- Elizabeth died of unknown causes three days later — she did not survive losing him
+- Their deaths are what opened the path for Isaiah to become the new Emperor
+- Isaiah and Taylor are devastated
 
 **Isaiah and Taylor:**
 - Rule the Empire for years
@@ -1601,7 +1606,7 @@ All rules permanent and non-negotiable unless the user explicitly states otherwi
 
 11. **Green Death died exactly three times.** Two resurrections (scientists + colony); third death (old age at 500) was permanent. Cannot be changed.
 
-12. **Philip Sr. was killed by Magnus.** ~~Year 9090 / rogue soldier~~ — that storyline is SUPERSEDED. The canonical transcript reveals: Philip took a killing blow from Magnus that was meant for Isaiah, during a battle approximately 20 years before Owen's era. Isaiah broke Magnus' neck in that same battle — but Magnus was only playing dead. Philip Sr. did not survive. Elizabeth's death three days later remains canon; the year/circumstances of her death may need user re-confirmation given this correction.
+12. **Philip Sr. was killed by a rogue soldier — after he retired.** He first became Emperor of the Arden Empire. After his reign, he and Elizabeth retired to an isolated, beautiful planet in an unknown galaxy to live in peace and silence. A rogue soldier found them and killed Philip. Elizabeth died of unknown causes three days later — she simply didn't survive losing him. Their deaths opened the path for Isaiah to become Emperor. The "killed by Magnus" storyline was an earlier transcript draft and is overwritten by this user-confirmed canon.
 
 13. **Owen and Jen eventually become Emperor and Empress.** After Isaiah and Taylor abdicate due to the stress and burden of empire.
 
@@ -1641,7 +1646,7 @@ All rules permanent and non-negotiable unless the user explicitly states otherwi
 
 31. **Jen was YFP's original leader — Owen was the new guy.** Owen joined YFP as a recruit who had to pass Jen's trials. Jen led the team first. Owen became leader after Archer's death and Jen's suspension for concealing her pregnancy. The leadership transition was forced, not chosen.
 
-32. **Philip Sr. was killed by Magnus, not a rogue soldier in year 9090.** The transcript canonical scene (Isaiah telling Owen the truth) establishes Philip took a killing blow from Magnus meant for Isaiah. The "year 9090 rogue soldier" detail was generated in an earlier draft and is overwritten by this confirmed canon.
+32. **Philip Sr.'s death arc: Emperor → retirement → killed by rogue soldier.** Philip first became Emperor of the Arden Empire. Then he and Elizabeth retired to an isolated planet. A rogue soldier killed him there. Elizabeth died of unknown causes three days later. This allowed Isaiah to step up as the new Emperor. Any earlier draft claiming Philip was killed fighting Magnus is overwritten by this user-confirmed canon.
 
 33. **Magnus played dead for 20 years.** Isaiah broke Magnus' neck in the battle where Philip Sr. died — but Magnus survived and pretended to be dead. He is the main antagonist of Owen's era as well as Isaiah's. His return was a complete surprise to Isaiah.
 
