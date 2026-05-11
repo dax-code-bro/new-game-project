@@ -46,21 +46,26 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 | Magnus | Main | Arden (Enhanced) | Primary villain; OMEGA-class conqueror | ACTIVE |
 | Anita | Main | Arden | Antagonist; Owen's mother-in-law; Magnus' ally | ALIVE (maimed exile) |
 | Bruiser | Main | War Beast | Vanguard Tank; Isaiah's mentee | ACTIVE |
-| Archer / Aiden Ryder | Main | Human (Enhanced) | YFP Scout; son of Arden Ryder | ACTIVE |
+| Archer / Aiden Ryder | Main | Human (Enhanced) | YFP Scout; son of Arden Ryder | **DECEASED** (Magmasaurus — first YFP casualty) |
 | Graphite / Darius Cole Jr. | Main | War Beast Hybrid | YFP Tank; Bruiser's son | ACTIVE |
-| Blaze / Blaze Marlowe-Taylor | Main | Human (Enhanced) | YFP Speedster; son of Vrenn and Ellie | ACTIVE |
-| Philip Hammond Sr. | Main | Arden (pureblooded) | Isaiah's father; generational patriarch | DIES year 9090 |
-| Elizabeth Hammond | Main | Human | Isaiah's mother; Philip's wife | DIES year 9090 |
+| Blaze / Blaze Marlowe-Taylor | Main | Human (Enhanced) | YFP Speedster; son of Vrenn and Ellie | ACTIVE (critical condition after Magnus/Anita battle) |
+| Hope Lyons | Main | Arden-human hybrid | Isaiah and Taylor's daughter; Owen's sister | ALIVE |
+| Philip Hammond Sr. | Main | Arden (pureblooded) | Isaiah's father; generational patriarch | **DECEASED** (killed by Magnus taking blow meant for Isaiah) |
+| Elizabeth Hammond | Main | Human | Isaiah's mother; Philip's wife | DIES 3 days after Philip Sr. |
 | Lucky | Main | Stalker (rare black mutation) | Owen's companion; co-parent to Philip Morgan | ALIVE |
 | Atlas | Supporting | Arden (Enhanced) | Magnus' chief researcher | DECEASED |
 | Peter | Supporting | Arden (Enhanced) | Magnus' elite guard / assistant | DECEASED |
 | Philip Morgan | Supporting | Arden-human hybrid | Owen and Jen's son; future superhero | ALIVE |
 | Vrenn | Supporting | Human (reconstructed) | Blaze's father; Bruiser's brother; Vanguard Strike/Recon | ALIVE |
 | Ellie Marlowe | Supporting | Human (Enhanced) | Blaze's mother; Isaiah's protégé; Vanguard operative | ALIVE |
+| Terra | Supporting | Unknown | YFP member; metal manipulation + terrakinesis | ACTIVE |
 | Kayla | Supporting | Unknown | YFP mentor | ALIVE |
 | Jean | Supporting | Unknown | YFP teammate | ALIVE |
-| Skyler | Supporting | Unknown | YFP teammate | ALIVE |
+| Skyler | Supporting | Unknown | YFP teammate; force fields + energy projection | ALIVE (coma after Magnus/Anita battle) |
+| Quick Shot | Supporting | Alien (green-skinned) | Vanguard operative; wielded The Eraser | **DECEASED** (Battle of Midpoint — protecting civilians) |
+| Quickblade | Supporting | Unknown | Owen's YFP teammate; named himself after the Quickblade species | ALIVE |
 | Green Death | Supporting | Stalker | Legendary cannibal emperor; Lucky's ancestor | DECEASED (age 500) |
+| Lucky (Human) | Supporting | Human | Vanguard operative; extreme luck powers | **DECEASED** (Siege of Prague — took blast for Taylor) |
 | Bucky "Moonlight" | Background | Stalker (grey) | Lucky and Lucy's son | ALIVE |
 | Lucy | Background | Stalker (white/standard) | Lucky's wife | ALIVE |
 | Dr. Helen Marsh | Background | Human | SBP director | UNKNOWN |
@@ -71,7 +76,7 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 | Arden Ryder | Background | Arden | Vanguard operative; Archer's father | ALIVE |
 | Jessica Ryder | Background | Human | Archer's mother | ALIVE |
 | Kai Marlowe | Background | Human | Ellie and Vrenn's younger son; Blaze's little brother (age 4) | ALIVE |
-| Quick Shot | Background | Unknown | Vanguard operative (possibly = Quickblade) | ALIVE |
+| Celine | Background | Unknown | Former Vanguard member; left after Lucky (Human)'s death | DEPARTED |
 
 ---
 
@@ -227,10 +232,20 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 **Personality:** Warm but not soft; the opposite of Anita in every way that counts; chose warmth as an active decision every day
 
 **Role in story:**
+- **Original YFP leader** — Jen founded/led YFP before Owen joined. She was the one who vetted Owen for membership and gave him his trial. Her line to him: *"If you join, you follow MY orders. Not your father's. Not anyone else's. Mine. Understood?"*
+- Owen joined as the new guy; had to earn his place through trials Jen assigned
 - Owen's partner; mother of Philip Morgan; future Empress alongside Owen
-- Member of YFP team
-- Was in a relationship with Blaze (he cheated on her with Skyler — she walked in on them; team took sides)
+- Was in a relationship with Blaze (he cheated on her with Skyler — she didn't realize until years later; team took sides after the truth emerged)
 - Close friend to Graphite (one of the first to see the real him)
+
+**Suspension arc:**
+Jen concealed her pregnancy from SBP authorities while continuing active field operations — including combat during the Magmasaurus crisis. After Philip's birth, an SBP data analyst discovered the concealed pregnancy through medical record review. Jen was immediately suspended, pending review hearing. Owen was trapped — defending her publicly would jeopardize his own leadership position. Jen signed the suspension order rather than fight it. *"I should've reported it. I should've stepped back. I was selfish. And now... now I'm paying for it."*
+
+**Leadership timeline:**
+- Jen: Original YFP leader
+- Archer dies (first casualty — Magmasaurus)
+- Owen becomes de facto co-leader / primary leader after Archer's death
+- Jen suspended → Owen officially confirmed as team leader with 6 active members
 
 ---
 
@@ -383,6 +398,29 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 
 **Quotes:** *"A perfect shot isn't luck. It's choice."* / *"I don't miss. Not because I'm perfect. Because I decide."* / *"People talk too much. I'd rather let my aim do the speaking."*
 
+**STATUS: DECEASED — killed by Magmasaurus**
+
+**Death scene (canon):**
+The team received an emergency Code Black alert — Magmasaurus had appeared at Coastal Sector 7. Owen, Jen, and Isaiah teleported toward the location, two minutes out. They arrived to find the destruction already done.
+
+Archer had arrived first — alone. He was standing on a rooftop, firing his rifle at Magmasaurus with perfect accuracy. Every shot hit eyes, joints, and weak points. None of it mattered. When Magmasaurus turned and looked down at him, Archer kept firing anyway — buying time for civilians to escape, knowing it was useless.
+
+Magmasaurus said: *"Brave. But futile."*
+
+Archer dropped his rifle and ran. He wasn't fast enough.
+
+A column of liquid fire poured from the sky. For three seconds, Archer's skeleton was visible through the flames — bones glowing white-hot, flesh burned away instantly. Then the skeleton collapsed into charred bone fragments and ash. Nothing left.
+
+**Archer's last words:** *"...sorry, guys."*
+
+When Owen arrived and saw the pile of ash on the rooftop, he went still, then screamed — raw, anguished — and charged. Jen had to physically hold him back.
+
+Magmasaurus acknowledged the death: *"He died bravely. Buying time for civilians to escape. A warrior's death. You should honor him."*
+
+**Legacy:** Isaiah's words at the team debrief: *"Archer died buying time for people to escape. He died as a HERO. And we honor him by FINISHING what he started."*
+
+Archer was the **first YFP casualty**. His death broke the team's morale and directly led to the leadership restructuring that made Owen the official team leader. Quickblade joined as his replacement.
+
 ---
 
 ### Graphite / Darius Cole Jr.
@@ -515,6 +553,30 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 **Bucky's strength:** Approximately 60–110% of Lucky's depending on age; may reach Lucky's level at full maturity.
 
 **Visual design (CANON — confirmed):** Jet black body, yellow head stripes (3), red glowing eyes, six limbs, long spiked tail
+
+---
+
+### Hope Lyons
+
+- **Full name:** Hope Lyons
+- **Species:** Arden-human hybrid
+- **Parents:** Isaiah Alexander Lyons (father) and Taylor (mother)
+- **Relationship:** Owen Taylor Lyons' younger sister; Isaiah and Taylor's second child
+- **Name origin:** Named by Isaiah at her birth: *"Because she's what I'm fighting for. What I'm holding onto. Hope."* Taylor had waited for Isaiah to return before naming her — they chose the name together.
+- **Eyes at birth:** Blue — like Taylor's. One of the few features drawn from her mother rather than her Arden father.
+
+**Birth scene (canon):**
+Isaiah arrived limping from a battle — he had just fought his way back and was nearly too late. Philip Sr. found him outside and told him *"You have a daughter"* before he could ask. Isaiah entered the shelter and held her, weeping. *"She's so small. So perfect."* When Owen woke and saw her, he said: *"Hi, Hope. I'm Owen. I'm your big brother. And I'm gonna protect you. Always."* — and Hope's tiny fingers wrapped around his.
+
+**Owen's role:** This was the moment Owen first became a protector by choice, not by training.
+
+**Adult arc:**
+- Present as a young adult at the Morgan Manor family dinner (in Owen's era) — engaged, asks questions, uses dark humor about Blaze/Jen drama, clearly comfortable in the family dynamic
+- Present at the three-generations gathering when Isaiah reveals Philip Sr. was killed by Magnus — stands with Lucia and surrounds Isaiah as he holds baby Philip
+- Calls Isaiah "Dad"
+- Addresses Isaiah's speech about the family enduring: *"What, Dad?"* — she is not passive; she engages
+
+**Note:** Hope is NOT Jen's second baby. Rule 9 addressed a prior confusion about Jen's children. Hope is entirely Isaiah and Taylor's daughter and has no connection to that confusion. See Rule 9 (updated) and Rule 29.
 
 ---
 
@@ -677,9 +739,75 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 
 ### Skyler
 
-- **Role:** YFP teammate
-- **History:** Was involved with Blaze while he was dating Jen; Jen walked in on them; team took sides; her relationship with Jen has been complicated since
-- **Function:** Challenges Graphite to open up and not bottle things inside
+- **Role:** YFP teammate / Blaze's current girlfriend
+- **Powers:** Force fields, energy projection — Support / Defense role
+- **YFP parallel:** Ellie (defensive powers, support archetype)
+
+**The Blaze situation (full arc):**
+Blaze was secretly dating Skyler while he was in a relationship with Jen. He was two-timing both of them. When he finally ended things with Jen, he broke up with her and went public with Skyler **that same night** — in the team common room. Jen didn't connect the dots until years later, during a family dinner: *"When he was dating me. He was also seeing Skylar. That's why they were so comfortable immediately. They'd BEEN together. While he was with me."*
+
+The question of whether Skyler knew she was "the other woman" or was also deceived remains unresolved. What is confirmed: she looked at Jen *"like she felt guilty"* — which implies she knew at least something.
+
+**Paternity scan incident:**
+When Jen was pregnant with Philip and a paternity scan was performed, it revealed a 1% microchimerism signature — Blaze's cells in Jen's body (from their prior relationship — not a DNA issue with the baby). The baby was confirmed 100% Owen's. But the 1% Blaze trace devastated Jen and triggered massive guilt in Skyler. The scan caused more collateral damage than the original cheating had. Skyler sat sobbing after Owen confronted them: *"I ruined everything."* Blaze's response: *"You kind of did."*
+
+**Battle aftermath:**
+After the YFP battle against Magnus and Anita, Skyler is left **in a coma** — the worst casualty outcome on the team alongside Blaze (critical) and Granite (life support). She was injured fighting two OMEGA-class threats simultaneously. Status at battle's end: unresponsive, full medical intervention.
+
+**Team dynamic function:** Challenges Graphite to open up and not bottle things inside — one of the few people who can get through to him emotionally.
+
+---
+
+### Terra
+
+- **Role:** YFP member (active field operative)
+- **Powers:** Metal manipulation + terrakinesis — controls metal and earth; shapes, moves, and weaponizes both
+- **Signature ability:** Metal rings that float around her wrists at all times — a constant passive demonstration of her control
+- **Mentor/parallel:** Ellie Marlowe (Ellie's power set is the Vanguard equivalent of Terra's; Terra is the YFP version of that archetype)
+
+**Physical appearance:**
+- Shorter frame relative to teammates
+- Dark hair worn so it covers one eye
+- Tattoos on her arms
+- Metal rings orbiting her wrists — always spinning, always present
+
+**Personality:** Quiet, artistic, and precise. The calmest presence on the team when combat starts. Demonstrates rather than explains — she let the spinning rings speak for her at her introduction.
+
+**Introduction (canon quote):**
+*A shorter girl stepped forward. Quiet. Dark hair covering one eye. Tattoos on her arms. Metal rings floating around her wrists.*
+**TERRA:** *"Terra. Metal manipulation and terrakinesis. I control metal and earth. Shape it. Move it. Use it."*
+*The rings spun faster. Demonstrating.*
+**OWEN:** *"...that's amazing."*
+**TERRA:** *"Thanks."*
+
+**Battle status:** After the Magnus/Anita battle — required medical assistance but NOT in serious condition. One of the two members who came through the fight most intact (alongside Quickblade).
+
+**YFP roster status:** Active member; listed on the confirmed active-6 roster when Jen is suspended.
+
+---
+
+### Quick Shot
+
+- **Species:** Alien — green-skinned (described as green-skinned, like the Martian Manhunter in visual reference)
+- **Role:** Vanguard operative; hired mercenary
+- **Motivation:** Providing for his family — joined Vanguard as a paid contractor, not out of ideology
+- **Weapon:** **The Eraser** — a gun that can kill anything; no known target has survived a shot from it; Quick Shot himself died despite having it
+- **Team relationship:** Professional respect with Bruiser; they covered each other's backs in the field
+- **Status:** **DECEASED — died in the Battle of Midpoint**, protecting civilians from a threat during the same battle in which Isaiah lost his arm
+
+**Isaiah's eulogy (canon):** *"Quick Shot died protecting civilians. He died as a HERO."*
+
+**Quick Shot ≠ Quickblade:** These are two different characters. Quickblade is Owen's YFP teammate who named himself after the Quickblade species — not after or in tribute to Quick Shot. The name similarity is coincidence within the universe.
+
+---
+
+### Quickblade
+
+- **Role:** YFP operative; joined as Archer's replacement after Archer's death
+- **Name origin:** Named himself "Quickblade" after the Quickblade species because he thought they were cool — not named for or in tribute to Quick Shot
+- **Powers:** Speed; dual knives (confirmed from YFP roster notes)
+- **Battle status:** After the Magnus/Anita battle — decent condition; one of the two least-injured members (alongside Terra)
+- **Personality:** Not yet fully established
 
 ---
 
@@ -738,7 +866,7 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 
 **Kai Marlowe** — Ellie and Vrenn's younger son (age 4); Blaze's **little brother**. Always asks why. Likes spaceships, lightning (like dad), and pink (like mom). A bright, energetic kid — the light of both his parents' worlds. Blaze calls him his "best friend" and "chaos duo" — the little brother who loves Blaze unconditionally regardless of what he's done, which makes him one of the few people who truly sees past Blaze's acts
 
-**Quick Shot** — Vanguard operative; professional respect with Bruiser; they cover each other's backs. *POSSIBLY the same character as "Quickblade" referenced in the spinoff notes — NOT confirmed; do not merge until user confirms.*
+**Celine** — Former Vanguard operative. Left the team after Lucky (Human)'s death in the Siege of Prague. Her departure was immediate and final: *"I'm done."* Her powers and full backstory are not yet established.
 
 **Bucky "Moonlight"** — Lucky and Lucy's son; grey body (Lucky's black + Lucy's white genetics); black markings; cut-off eight marking; red eyes (inherited Lucky's appearance but NOT his enhanced vision — injury doesn't pass genetically); strength approximately 60–110% of Lucky's
 
@@ -895,6 +1023,33 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 - **Combat limitation:** Cannot distinguish Arden allies from enemies — not used in final battle
 - **Prevalence:** Very common in spinoff series
 - **Note:** A character named Quickblade (Owen's teammate) named himself after this species; "Quick Shot" (Bruiser's Vanguard teammate) may or may not be the same character — unconfirmed
+
+---
+
+### Magmasaurus
+
+- **Class:** Kaiju-scale apex predator / living weapon
+- **Height:** ~100 meters (approximately 328 feet) — building-scale
+- **Coloration:** Glowing orange-red; body radiates heat at all times
+- **Locomotion:** Bipedal (implied by the description of hands bigger than people)
+- **Status:** Active antagonist during Owen's era; still at large after the coastal battle
+
+**Key abilities:**
+- **Fire breath:** Projects a column of liquid magma. Volume, heat, and pressure are sufficient to reduce a human body to skeleton in under three seconds and collapse that skeleton to ash. No shielding has been shown to survive a direct hit.
+- **Physical strength:** Hands alone are larger than a full-grown person; one casual tail swipe sent Owen flying. Isaiah — who holds up crashing spacecraft — could only push Magmasaurus back *slightly* after catching the creature's weight, and could not win the fight.
+- **Durability:** Completely unscathed after the coastal battle despite receiving Isaiah's full resistance and every YFP energy/projectile attack. Archer's perfect-accuracy shots to eyes and joints did nothing.
+- **Intelligence:** Speaks in full sentences. Assessed Archer's bravery before killing him. Acknowledged the dead as warriors. Not a mindless creature.
+- **Ocean dive:** After the coastal battle, Magmasaurus roared and dove into the ocean exactly like Godzilla, vanishing. The team had no way to pursue or stop the escape.
+
+**Key canon moments:**
+- First appearance: attacked Coastal Sector 7 while Vanguard was en route; was already burning the city when Archer arrived alone
+- **Killed Archer / Aiden Ryder** — first YFP casualty — with a single fire breath while Archer was running for the fire escape. Last words acknowledged: *"Brave. But futile."*
+- Isaiah held up Magmasaurus physically — the only member of either team who could even slow it down — but even he couldn't win alone or together with the rest of the team
+- Escaped into the ocean after the battle, completely uninjured
+
+**Threat classification:** Functionally above the YFP's combined power ceiling. Stopped by Isaiah temporarily; not defeated by Isaiah or anyone. One of the few threats in the story that required a broader strategic solution rather than brute force.
+
+**Spinoff note:** "Magmasaurus Special Episodes" listed as a standalone spinoff concept — the creature migrating, waking, feeding; nature dwarfing civilization.
 
 ---
 
@@ -1080,27 +1235,58 @@ Ring I (Youngbloods) → Ring II (First Blood Warriors) → Ring III (Enforcemen
 ### Vanguard
 
 - Interstellar operative organization; active in Owen's era
-- Known members: Bruiser (Tank/Frontline), Arden Ryder (elite operative/strategist), Quick Shot (operative)
 - **Base:** Ardenis Station (Bruiser's confirmed base)
 - Magnus lists "The Vanguard Alliance" as one of his known enemies — he intends to break them
 - Spinoff concept: *The Vanguard* — episodic missions; team dynamics; Owen + Quickblade + teammates + Lucky
+
+**Known members (full roster, including deceased):**
+
+| Member | Role | Status |
+|---|---|---|
+| Isaiah Alexander Lyons | Leader / Arden hybrid | ALIVE |
+| Taylor Lyons | Operative / Empress | ALIVE |
+| Bruiser | Tank / Frontline | ALIVE |
+| Vrenn | Strike / Recon | ALIVE |
+| Ellie Marlowe | Tactical Support / Field | ALIVE |
+| Arden Ryder | Elite Operative / Strategist | ALIVE |
+| Quick Shot | Operative (hired mercenary) | **DECEASED** — Battle of Midpoint |
+| **Lucky** (Human) | Operative — extreme luck powers | **DECEASED** — Siege of Prague (took blast for Taylor) |
+| Selene | Half-human/half-Korvath hybrid; fast and deadly | **DECEASED** |
+| Karos | Scaled Sythera alien; 200+ years old; species nearly extinct | **DECEASED** |
+| Celine | Unknown powers | **DEPARTED** — left after Lucky (Human)'s death; *"I'm done"* |
+
+**Isaiah's battle loss:** In the **Battle of Midpoint** — the same battle where Quick Shot died protecting civilians — Isaiah lost his arm. (He survived; Arden regeneration capabilities assumed.)
+
+**Note on "Lucky":** There are TWO characters named Lucky in this story. Lucky (Human) was a Vanguard operative who died. Lucky (Stalker) is Owen's companion who raises Philip Morgan. They share a name but are completely different beings. See Rule 30.
 
 ---
 
 ### YFP — Young Future Protectors
 
-- Owen Taylor Lyons' team; active in Owen's era
+- Active in Owen's era; handles threats the main Vanguard can't or won't — younger targets, faster missions, higher risk
 - **Base:** YFP Headquarters
 
-**Confirmed Roster:**
-- Owen Taylor Lyons (Team Leader)
-- Archer / Aiden Ryder (Strategic Ranged / Scout)
-- Graphite / Darius Cole Jr. (Frontline / Tank)
-- Blaze / Blaze Marlowe-Taylor (Speedster)
-- Jen (member — half Arden / half demigod; Owen's partner)
-- Jean (teammate)
-- Skyler (teammate)
-- Kayla (mentor figure — based at HQ)
+**Leadership history:**
+- **Jen** founded and led YFP as its original leader. She recruited Owen as the new guy and made him go through trials to earn membership.
+- After **Archer's death** (killed by Magmasaurus) and **Jen's suspension** (concealed pregnancy — protocol violation), **Owen** became the confirmed team leader.
+
+**Full Roster (chronological):**
+
+| Member | Role | Status |
+|---|---|---|
+| **Jen** | Original Leader / Powerhouse (solar, portals, atomic restructuring) | Suspended (concealed pregnancy) |
+| **Owen Taylor Lyons** | Team Leader (after Archer death + Jen suspension) | ACTIVE (regenerating after Magnus/Anita battle) |
+| **Archer / Aiden Ryder** | Strategic Ranged / Scout | **DECEASED** (Magmasaurus — first YFP casualty) |
+| **Graphite / Darius Cole Jr.** | Frontline / Tank | ACTIVE (life support after Magnus/Anita battle) |
+| **Blaze / Blaze Marlowe-Taylor** | Speedster / Scout / DPS | ACTIVE (critical condition after Magnus/Anita battle) |
+| **Skyler** | Support / Defense (force fields, energy projection) | ACTIVE (coma after Magnus/Anita battle) |
+| **Jean** | Teammate | ACTIVE |
+| **Terra** | Versatile / Support (metal + terrakinesis) | ACTIVE (minor injuries after Magnus/Anita battle) |
+| **Quickblade** | Speed / Dual Knives (joined as Archer's replacement) | ACTIVE (decent condition after Magnus/Anita battle) |
+| **Kayla** | Mentor figure (based at HQ) | ACTIVE |
+
+**Confirmed active-6 roster** (after Archer death + Jen suspension, before Magnus/Anita battle):
+Owen, Blaze, Skylar, Granite, Terra, Quickblade
 
 ---
 
@@ -1233,6 +1419,18 @@ Ring I (Youngbloods) → Ring II (First Blood Warriors) → Ring III (Enforcemen
 
 ---
 
+### Hope's Birth
+
+- Taylor gives birth to a daughter while Isaiah is fighting
+- Isaiah arrived limping — nearly missed it; Philip Sr. found him outside and told him *"You have a daughter"*
+- Isaiah entered and held her for the first time: *"She's so small. So perfect."* — sobbing
+- Taylor: *"I was waiting for you. I wanted us to name her together."*
+- Isaiah named her **Hope**: *"Because she's what I'm fighting for. What I'm holding onto. Hope."*
+- Owen (waking up): *"Hi, Hope. I'm Owen. I'm your big brother. And I'm gonna protect you. Always."* — Hope's fingers wrapped around Owen's
+- Hope has blue eyes — like Taylor's
+
+---
+
 ### Part 6 — 7-Year Time Skip
 
 - Owen is 7 years old
@@ -1285,13 +1483,46 @@ Ring I (Youngbloods) → Ring II (First Blood Warriors) → Ring III (Enforcemen
 
 ---
 
+### YFP Era — Owen's Generation
+
+**Magmasaurus crisis:**
+- Magmasaurus attacked Coastal Sector 7 — Archer arrived first, alone, buying time for civilians while the team was in transit
+- Archer was killed by fire breath — burned to skeleton in seconds; first YFP casualty
+- Team arrived too late; Isaiah was the only one who could physically resist Magmasaurus but couldn't defeat it
+- Magmasaurus dove into the ocean after the battle, completely unharmed
+
+**Jen's suspension:**
+- Jen had concealed her pregnancy from SBP while continuing active field operations through the Magmasaurus crisis
+- SBP discovered the pregnancy through medical record review after Philip's birth
+- Jen was immediately suspended pending review — protocol violation
+- Owen became the confirmed YFP team leader; Quickblade joined as Archer's replacement
+- Active-6 roster: Owen, Blaze, Skylar, Granite, Terra, Quickblade
+
+**Three-generations gathering:**
+- Isaiah gathered the family: Taylor, Hope, Lucia, Owen, Jen, baby Philip
+- Owen asked Isaiah directly how Philip Sr. died
+- Isaiah revealed the truth: *"He died fighting Magnus. Twenty years ago. The same battle where I 'killed' Magnus. Except I didn't kill him. I just broke his neck. And he played dead. And my father... my father took a killing blow meant for me. And I couldn't save him."*
+- Isaiah had carried the guilt for 20 years — believing Magnus was dead all along, while Magnus was alive and preparing to return
+- Isaiah held baby Philip: *"Your great-grandfather would have LOVED you... I'll do my best to teach you what he taught me."*
+- Three generations connected: Isaiah + Owen + baby Philip
+
+**Philip Sr.'s real death — correction of prior canon:**
+Philip Hammond Sr. was NOT killed by a rogue soldier in year 9090. He was killed by Magnus approximately 20 years before Owen's era — he stepped into a killing blow meant for Isaiah. The "year 9090 rogue soldier" storyline is superseded by this canonical transcript revelation. See Rule 32.
+
+**Magnus/Anita battle vs. YFP:**
+- Magnus (revealed to be alive — played dead for 20 years after Isaiah broke his neck) teamed up with Anita
+- They fought the YFP team directly
+- Result: Blaze — critical condition; Skyler — coma; Granite — life support; Owen — regenerating; Terra — minor injuries; Quickblade — decent condition
+- Team severely outmatched by two OMEGA-class threats simultaneously
+
+---
+
 ### Story Ending Arc — The Far Future
 
 **Philip Sr. and Elizabeth:**
-- Retire to an isolated beautiful planet in an unknown galaxy
-- Philip Sr. killed by a rogue soldier in **year 9090**
-- Elizabeth dies three days later — she didn't survive losing him
-- Isaiah and Taylor are devastated
+- ⚠ **DEATH CANON CORRECTED — See above.** Philip Sr. was killed by Magnus ~20 years before Owen's era, not in year 9090 by a rogue soldier.
+- Elizabeth's death (three days after Philip Sr.) — her fate remains tied to his; the specific year/circumstances of her death may need user re-confirmation given this correction
+- Isaiah and Taylor are devastated by both losses
 
 **Isaiah and Taylor:**
 - Rule the Empire for years
@@ -1364,13 +1595,13 @@ All rules permanent and non-negotiable unless the user explicitly states otherwi
 
 8. **Anita is dismembered but not killed.** She survives the sun throw as a burned/maimed exile — still dangerous.
 
-9. **Jen had only ONE child.** Baby Philip Morgan. No second baby, no daughter named Hope — that was a timeline confusion, corrected by user.
+9. **Jen had only ONE child.** Baby Philip Morgan. No second baby by Jen. **Hope Lyons** is a completely separate character — she is Isaiah and Taylor's daughter, not Jen's. The original confusion was about whether Jen had a second child; she does not. Hope's existence as Isaiah's daughter is confirmed canon and does not conflict with this rule.
 
 10. **Standard Stalkers are WHITE.** Lucky's black coloration is the rare mutation, not the standard. Never describe white Stalkers as abnormal.
 
 11. **Green Death died exactly three times.** Two resurrections (scientists + colony); third death (old age at 500) was permanent. Cannot be changed.
 
-12. **Philip Sr. dies in year 9090.** Killed by rogue soldier. Elizabeth dies three days later. Both deaths confirmed canon.
+12. **Philip Sr. was killed by Magnus.** ~~Year 9090 / rogue soldier~~ — that storyline is SUPERSEDED. The canonical transcript reveals: Philip took a killing blow from Magnus that was meant for Isaiah, during a battle approximately 20 years before Owen's era. Isaiah broke Magnus' neck in that same battle — but Magnus was only playing dead. Philip Sr. did not survive. Elizabeth's death three days later remains canon; the year/circumstances of her death may need user re-confirmation given this correction.
 
 13. **Owen and Jen eventually become Emperor and Empress.** After Isaiah and Taylor abdicate due to the stress and burden of empire.
 
@@ -1390,7 +1621,7 @@ All rules permanent and non-negotiable unless the user explicitly states otherwi
 
 21. **Bruiser is Vrenn's younger brother.** Graphite (Bruiser's son) and Blaze (Vrenn's son) are cousins. This family connection is canon.
 
-22. **Quick Shot ≠ confirmed same as Quickblade.** Do not assume they are the same character until the user confirms it.
+22. **Quick Shot ≠ Quickblade. They are confirmed DIFFERENT characters.** Quick Shot was a Vanguard operative (green-skinned alien; The Eraser; DECEASED). Quickblade is Owen's YFP teammate who named himself after the Quickblade species. Both characters exist separately and simultaneously in the same universe.
 
 23. **Kai Marlowe is Blaze's little brother, not an outside friend.** Kai (age 4) is Ellie and Vrenn's younger son, making him Blaze's little brother. The "chaos duo / best friend" description in Blaze's sheet refers to this sibling relationship.
 
@@ -1403,6 +1634,20 @@ All rules permanent and non-negotiable unless the user explicitly states otherwi
 27. **Vrenn age discrepancy flagged (do not resolve without user).** Vrenn is listed as 25 years old, but his son Blaze is 19. Biologically impossible at face value. Possible explanations: (a) Vrenn's body reconstruction by PROJECT: INTERVAL altered his biological aging, so "25" represents apparent/biological age, not birth age; (b) the sheets were made at different times with inconsistent assumptions. Do not correct either age until the user weighs in.
 
 28. **Ard'a's 4.2 billion population and the ~1,000 Ardens in the main story are different eras.** The planet sheet represents a peak/stable-era population. The main story takes place after massive population collapse (Great Disease of 1855 + Pink War). Both figures are canon.
+
+29. **Hope Lyons is Isaiah and Taylor's daughter — not Jen's baby, not a confusion.** She was named by Isaiah at birth: *"Because she's what I'm fighting for. What I'm holding onto. Hope."* She has blue eyes like Taylor. She appears as a young adult at the Morgan Manor dinner and the three-generations family gathering in Owen's era. She calls Isaiah "Dad." She is Owen's younger sister.
+
+30. **There are TWO characters named Lucky.** Lucky (Stalker): Owen's black-furred companion; sole colony survivor; co-parent to Philip Morgan; ALIVE. Lucky (Human): Vanguard operative with extreme luck powers; died in the Siege of Prague taking a blast meant for Taylor; DECEASED. Never conflate these two characters.
+
+31. **Jen was YFP's original leader — Owen was the new guy.** Owen joined YFP as a recruit who had to pass Jen's trials. Jen led the team first. Owen became leader after Archer's death and Jen's suspension for concealing her pregnancy. The leadership transition was forced, not chosen.
+
+32. **Philip Sr. was killed by Magnus, not a rogue soldier in year 9090.** The transcript canonical scene (Isaiah telling Owen the truth) establishes Philip took a killing blow from Magnus meant for Isaiah. The "year 9090 rogue soldier" detail was generated in an earlier draft and is overwritten by this confirmed canon.
+
+33. **Magnus played dead for 20 years.** Isaiah broke Magnus' neck in the battle where Philip Sr. died — but Magnus survived and pretended to be dead. He is the main antagonist of Owen's era as well as Isaiah's. His return was a complete surprise to Isaiah.
+
+34. **Isaiah lost an arm in the Battle of Midpoint.** Same battle where Quick Shot died protecting civilians. Isaiah survived; Arden regenerative capabilities are assumed to apply. This is confirmed canon from the transcript.
+
+35. **The YFP post-Magnus/Anita battle casualty list is canon.** Blaze: critical. Skyler: coma. Granite: life support. Owen: regenerating. Terra: minor injuries. Quickblade: decent condition. Jen was not present (suspended). This cannot be retconned to a lighter outcome.
 
 ---
 
