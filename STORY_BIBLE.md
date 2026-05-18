@@ -1600,6 +1600,31 @@ Dura was not always alone. He had a team of **seven heroes**. The Cannibal Twins
 **Why Isaiah solves it:**
 Two fighters. Two targets. One per twin, simultaneously — no escape route for either. Isaiah and Dura corner them at the same moment and finish both before either can run. The cycle that has been running for nearly 1,000 years ends because for the first time, the twins face an opponent they have no memory of and no strategy against, alongside the one opponent they've never been able to simply outlast.
 
+**The Final Fight — Scene (canon):**
+
+Isaiah and Dura lure both twins into a controlled area — the trap is set. Dura opens the fight. It is a **legendary battle** — 1,000 years of experience, everything he has.
+
+Dura gets one of them. He **rips it in half**.
+
+It keeps fighting.
+
+The two halves of the twin continue to move, to attack, relentless — it does not stop, does not slow down, does not register what just happened to its body. It finds an opening. It **bites into Dura's shoulder and tears a massive chunk of flesh completely off** — and eats it. Right in front of him. Chewing. Looking at him.
+
+That is what Dura has been fighting for 1,000 years.
+
+**Isaiah enters.**
+
+He finds the other twin — the intact one — and **snaps its neck**. Clean. Done.
+
+That leaves the ripped-in-half twin. No partner to run to. No escape. It puts up a **decent fight** — it has 1,000 years of memory and nothing left to lose — but against Isaiah it was never going to be enough. Isaiah **blows its head off**.
+
+Both twins are dead simultaneously. The cycle does not restart. There is no one left to regenerate the other. It is over.
+
+**The portal:**
+After the fight, **a portal opens — mysteriously, without explanation**. No one summoned it. It simply appears. Isaiah walks through with ease and returns to his own universe.
+
+*⚠ Where the portal came from and whether it will open again — TBD*
+
 **Resolution:** Isaiah and Dura kill both twins simultaneously. The cycle ends. Dura's 1,000-year war is over.
 
 *⚠ Cannibal Twins' names — TBD*
