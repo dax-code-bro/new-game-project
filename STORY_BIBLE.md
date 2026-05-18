@@ -1777,7 +1777,8 @@ A few weeks after Isaiah's visit, the story shifts back to Owen. He decides to g
 
 Lucia has been stationed on Earth but struggling deeply with it. She sees humans as weak, pathetic, and pitifully short-lived compared to the Arden. She does not want to be here. She wants to be with an Arden — someone who matches what she is, someone who will last. She cannot simply leave her post. And there is something on Earth that makes her feel more human than anything else in her life — something she has not been able to walk away from.
 
-*⚠ What that "something" is — TBD*
+**What keeps Lucia on Earth:**
+Her connection to her father — **Isaiah**. That bond is the thing that makes her feel more human than anything else in her life. Everything Arden in her came from Anita. Everything human in her came through Isaiah — the man who was given her and chose to love her anyway. Earth is where that connection lives. She cannot walk away from it even when every other part of her wants to leave.
 
 **Carlos:**
 Lucia kept returning to a bar. The bartender's name is **Carlos** — a human. She came back again and again. Eventually they started dating. Then something intimate happened between them.
