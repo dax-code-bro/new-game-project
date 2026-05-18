@@ -1793,12 +1793,40 @@ Lucia is 3/4 Arden. She looked down on every human around her. She wanted nothin
 
 She is Isaiah's daughter in more ways than she would ever want to admit. Isaiah was a hybrid who struggled with what he was. Lucia is a near-pureblooded Arden who fell for a human anyway. The generation changes. The pattern does not.
 
+**Owen's arrival — the full sequence:**
+
+Owen hasn't checked on Lucia in a few months — he deliberately gives her space, lets her breathe, figures she needs time to exist among humans without family hovering. In those months, Lucia had the baby and cut off everything.
+
+Owen's first instinct is to check the bar. He walks in. Lucia isn't there. Carlos is sitting in the corner. Owen asks him where she went.
+
+Carlos tells him everything — he is initially angry, hurt, confused about why she vanished. But he explains the whole story. **Lucia was still in her early 20s when this happened.** Owen takes it in, then heads out to find her.
+
+**When he finds Lucia:**
+She is with a **small child** — the baby has already been born. Lucia looks noticeably stressed. The moment Owen brings up Carlos's name she shuts it down immediately. She wants nothing to do with him. Full stop.
+
+It takes a significant amount of convincing from Owen to get her to go back to the bar at all.
+
+**The reconciliation:**
+They go. Lucia and Carlos talk — privately, in a car. It is not easy. It is complicated. But by the end of it, they decide to try again. Things are still messy but they are moving toward each other instead of away.
+
+Carlos meets his child.
+
+**The nephew conversation:**
+Afterward, Lucia asks Owen how her nephew is doing — meaning Philip Morgan.
+
+Owen explains that Philip has **seven children.**
+
+Lucia's jaw drops.
+
+---
+
 **Carlos — profile:**
 - **Name:** Carlos
 - **Occupation:** Bartender
 - **Species:** Human
-- Does not know Lucia is pregnant
-- Has been trying to reach Lucia since she cut contact; cannot get through
+- Did not know about the pregnancy or the child until Owen brought Lucia back
+- Was hurt and angry when Lucia disappeared — but still wanted to find her
+- Reconciles with Lucia after the car conversation; meets his child
 - *⚠ Full profile, appearance, personality — TBD*
 
 ---
