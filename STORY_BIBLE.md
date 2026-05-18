@@ -1701,10 +1701,27 @@ Philip is forced to accept.
 
 **The irony:** The Vex built their entire culture on the principle that free will is sacred. Vex General Kael refused to force Isaiah into anything — he rescinded the breeding offer the moment Isaiah declined and offered protection instead. Now, generations later, the Vex king is forcing Isaiah's grandson into an arrangement against his will. Something fundamental has changed in the Vex empire, or this king is acting in direct contradiction of everything his people stand for.
 
-*⚠ Whether Philip and the king's daughter develop genuine feelings — TBD*
-*⚠ Whether Owen or Isaiah find out and intervene — TBD*
-*⚠ What the long-term consequences of this arrangement are for Philip's life — TBD*
-*⚠ How/whether Philip eventually escapes or accepts this as his life — TBD*
+**Isaiah's arrival — the rescue scene:**
+When word reaches Isaiah, he rushes to the Vex planet immediately. Taylor is **reluctant** — she had only just gotten Isaiah back after the three-year portal disappearance, and the fear of losing him again was still raw. But Isaiah goes.
+
+He arrives and tears through the planet without slowing down — **mercilessly throwing guards around**, cutting through every layer of security, heading straight for the central quarters of the Vex king and queen's residence. He breaks through the door.
+
+Inside he finds:
+- **The king's daughter** — holding a **newborn baby**
+- **Philip Jr.** — in the corner, **guarding six toddlers**, positioning himself between them and whatever just came through the door, ready to fight
+
+Philip has been on this planet long enough to have seven children with the king's daughter. He has been protecting them.
+
+When he realizes it's Isaiah, he eases up.
+
+Then he **breaks down in tears** — because he believed his grandfather was dead. The three-year disappearance had reached him as a loss. He had been grieving Isaiah while trapped on the Vex planet, raising children, with no way out and no family coming.
+
+Isaiah walked through that door alive.
+
+*⚠ Dialogue for this scene — TBD when written*
+*⚠ Whether Isaiah takes Philip and the children home or the situation is more complicated — TBD*
+*⚠ Philip's feelings toward the king's daughter after all this time — TBD*
+*⚠ How the Vex king responds to Isaiah's arrival — TBD*
 
 ---
 
