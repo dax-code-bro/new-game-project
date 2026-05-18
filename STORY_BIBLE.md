@@ -78,6 +78,7 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 | Jessica Ryder | Background | Human | Archer's mother | ALIVE |
 | Kai Marlowe | Background | Human | Ellie and Vrenn's younger son; Blaze's little brother (age 4) | ALIVE |
 | Celine | Background | Unknown | Former Vanguard member; left after Lucky (Human)'s death | DEPARTED |
+| Vanessa | Supporting | Vex (king's daughter) | Philip Jr.'s partner; mother of their 7 children; started forced, became real | ALIVE |
 | Dura | Supporting (alt. universe) | Unknown | Alternate universe's durability-based hero; 1,000-year war vs. Cannibal Twins | ALIVE |
 | Cannibal Twins | Supporting (alt. universe) | Lab experiment (human-like) | Alternate universe antagonists; cyclically reborn stronger with full memories | ACTIVE / CYCLING |
 
@@ -1733,7 +1734,21 @@ By the time Isaiah breaks through that door, Philip is not a prisoner waiting to
 
 **Isaiah has to stand down.** The woman he was ready to blame is the woman his grandson chose.
 
-*⚠ The king's daughter — name and full profile TBD*
+**Vanessa — the king's daughter:**
+**Name:** Vanessa
+She keeps Philip honest. While Isaiah is there, Vanessa complains to Philip openly about how hard it is caring for seven children — and tells him directly that he should be spending more time with them.
+
+Philip's response: *"I'm always there."*
+
+**In private — Philip to Isaiah:**
+The moment Philip gets Isaiah alone, the front drops. He explains to his grandfather in complete confidence how genuinely overwhelming it is. Seven children. They look so much alike he can barely tell them apart. He is constantly trying to hold approximately **thirty different names** in his head — full names, nicknames, what each one responds to, which one is which — and failing.
+
+A man who carries Arden blood, third-generation hybrid, raised to be a galactic superhero — and he cannot reliably remember which child is which.
+
+He tells Isaiah because Isaiah is the only person he can tell.
+
+*⚠ Vanessa's full profile — species, appearance, powers/abilities, personality beyond this scene — TBD*
+*⚠ The children's names — TBD*
 *⚠ Isaiah's full emotional processing of this — TBD when scene is written*
 *⚠ Whether Owen knew Philip was here and why he wasn't the one who came — TBD*
 *⚠ What happens next — whether Philip stays, leaves, or finds a third option — TBD*
