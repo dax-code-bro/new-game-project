@@ -1625,6 +1625,19 @@ After the fight, **a portal opens — mysteriously, without explanation**. No on
 
 *⚠ Where the portal came from and whether it will open again — TBD*
 
+**The Return — Time Dilation:**
+Isaiah steps back through the portal into his own universe and goes immediately to his family.
+
+He checks the year.
+
+**Three years have passed.**
+
+He was in the alternate universe for five days. Three years went by at home.
+
+His family — Taylor, Owen, Hope, Lucia — had no way to know where he was, whether he was alive, or whether he was coming back. From their side, the Emperor vanished without a trace and did not return for **three years**.
+
+*⚠ What happened to the Empire, his family, and the political situation during those three years — TBD*
+
 **Resolution:** Isaiah and Dura kill both twins simultaneously. The cycle ends. Dura's 1,000-year war is over.
 
 *⚠ Cannibal Twins' names — TBD*
