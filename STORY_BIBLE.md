@@ -77,6 +77,7 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 | Arden Ryder | Background | Arden | Vanguard operative; Archer's father | ALIVE |
 | Jessica Ryder | Background | Human | Archer's mother | ALIVE |
 | Kai Marlowe | Background | Human | Ellie and Vrenn's younger son; Blaze's little brother (age 4) | ALIVE |
+| Carlos | Background | Human | Bartender; Lucia's ex; does not know she is pregnant with his child | ALIVE |
 | Celine | Background | Unknown | Former Vanguard member; left after Lucky (Human)'s death | DEPARTED |
 | Vanessa | Supporting | Vex (king's daughter) | Philip Jr.'s partner; mother of their 7 children; started forced, became real | ALIVE |
 | Dura | Supporting (alt. universe) | Unknown | Alternate universe's durability-based hero; 1,000-year war vs. Cannibal Twins | ALIVE |
@@ -1765,6 +1766,40 @@ Taylor suggests they could go visit Lucia together.
 Then she changes her mind. She tells Isaiah to go see Owen instead — giving him that visit first. She knows what it means to him without needing it explained. That is the kind of person she is.
 
 *⚠ The Owen visit — TBD*
+
+---
+
+### Owen Visits Lucia — The Earth Arc
+
+A few weeks after Isaiah's visit, the story shifts back to Owen. He decides to go check on his sister Lucia on Earth.
+
+**Lucia's situation:**
+
+Lucia has been stationed on Earth but struggling deeply with it. She sees humans as weak, pathetic, and pitifully short-lived compared to the Arden. She does not want to be here. She wants to be with an Arden — someone who matches what she is, someone who will last. She cannot simply leave her post. And there is something on Earth that makes her feel more human than anything else in her life — something she has not been able to walk away from.
+
+*⚠ What that "something" is — TBD*
+
+**Carlos:**
+Lucia kept returning to a bar. The bartender's name is **Carlos** — a human. She came back again and again. Eventually they started dating. Then something intimate happened between them.
+
+Lucia is now **expecting his child.**
+
+She has not told him. She stopped going to the bar entirely. She has **cut off all contact with Carlos completely** — will not answer, will not respond, has made herself unreachable. In her mind, he is the person who ruined her life.
+
+Carlos has been trying to get back in contact with her. He cannot get through.
+
+**The irony that runs through the whole thing:**
+Lucia is 3/4 Arden. She looked down on every human around her. She wanted nothing to do with their kind. She is now pregnant by one — and the child she is carrying will be less Arden than she is, the product of exactly the connection she told herself she would never have.
+
+She is Isaiah's daughter in more ways than she would ever want to admit. Isaiah was a hybrid who struggled with what he was. Lucia is a near-pureblooded Arden who fell for a human anyway. The generation changes. The pattern does not.
+
+**Carlos — profile:**
+- **Name:** Carlos
+- **Occupation:** Bartender
+- **Species:** Human
+- Does not know Lucia is pregnant
+- Has been trying to reach Lucia since she cut contact; cannot get through
+- *⚠ Full profile, appearance, personality — TBD*
 
 ---
 
