@@ -1718,10 +1718,25 @@ Then he **breaks down in tears** — because he believed his grandfather was dea
 
 Isaiah walked through that door alive.
 
-*⚠ Dialogue for this scene — TBD when written*
-*⚠ Whether Isaiah takes Philip and the children home or the situation is more complicated — TBD*
-*⚠ Philip's feelings toward the king's daughter after all this time — TBD*
-*⚠ How the Vex king responds to Isaiah's arrival — TBD*
+**Isaiah's rage — and Philip's correction:**
+Isaiah is enraged. He flies across the room toward the king's daughter — demanding to know what she did to Philip, ready to hold her responsible for everything.
+
+Philip pulls him aside.
+
+He explains: yes, he was forced into the relationship. The first **two children** were produced under the forced arrangement — the king's price for Philip's survival, the requirement that had to be met.
+
+But somewhere after that, something changed.
+
+Philip and the king's daughter **grew a genuine connection**. It stopped being forced. It became a **choice** — his choice, her choice. The children after the first two were not the result of an arrangement. They were wanted.
+
+By the time Isaiah breaks through that door, Philip is not a prisoner waiting to be rescued. He is a man who built a real life in an impossible situation and found something he would not want to leave behind.
+
+**Isaiah has to stand down.** The woman he was ready to blame is the woman his grandson chose.
+
+*⚠ The king's daughter — name and full profile TBD*
+*⚠ Isaiah's full emotional processing of this — TBD when scene is written*
+*⚠ Whether Owen knew Philip was here and why he wasn't the one who came — TBD*
+*⚠ What happens next — whether Philip stays, leaves, or finds a third option — TBD*
 
 ---
 
