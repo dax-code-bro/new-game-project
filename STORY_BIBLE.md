@@ -1636,7 +1636,19 @@ He was in the alternate universe for five days. Three years went by at home.
 
 His family — Taylor, Owen, Hope, Lucia — had no way to know where he was, whether he was alive, or whether he was coming back. From their side, the Emperor vanished without a trace and did not return for **three years**.
 
-*⚠ What happened to the Empire, his family, and the political situation during those three years — TBD*
+**The Reunion — Taylor:**
+Isaiah comes home and finds Taylor in a state of depression. She has been drinking. Three years without knowing whether her husband was dead or alive — while still being the Empress, still holding the weight of everything — broke something in her that she tried to fill the only way she could find.
+
+They say a few heartfelt things to each other.
+
+Taylor is not angry. She is not cold. She is not bitter about the three years.
+
+She is just **happy he's alive.**
+
+That is her whole response. Relief so complete it has no room for anything else.
+
+*⚠ The specific dialogue of their reunion — TBD when the scene is written*
+*⚠ What happened to the Empire during those three years — TBD*
 
 **Resolution:** Isaiah and Dura kill both twins simultaneously. The cycle ends. Dura's 1,000-year war is over.
 
