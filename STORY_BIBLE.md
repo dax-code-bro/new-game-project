@@ -1757,6 +1757,15 @@ He tells Isaiah because Isaiah is the only person he can tell.
 *⚠ Whether Owen knew Philip was here and why he wasn't the one who came — TBD*
 *⚠ What happens next — whether Philip stays, leaves, or finds a third option — TBD*
 
+**After the Vex planet — Isaiah and Taylor:**
+Taylor calls Isaiah. They catch up and express their love for each other — quiet and tender after everything they have both been through.
+
+Taylor suggests they could go visit Lucia together.
+
+Then she changes her mind. She tells Isaiah to go see Owen instead — giving him that visit first. She knows what it means to him without needing it explained. That is the kind of person she is.
+
+*⚠ The Owen visit — TBD*
+
 ---
 
 ## SPINOFF UNIVERSE IDEAS
