@@ -44,6 +44,7 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 | Jen | Main | Half Arden / half demigod | Owen's partner → Empress; Anita's first daughter | ALIVE |
 | Lucia | Main | 3/4 Arden / 1/4 human | Isaiah and Anita's daughter; raised by Isaiah | ALIVE |
 | Magnus | Main | Arden (Enhanced) | Primary villain; OMEGA-class conqueror | ACTIVE |
+| Break | Main | Alien (species TBD) | Isaiah's closest friend; iron armor + hammer; dual-form fighter | ALIVE |
 | Anita | Main | Arden | Antagonist; Owen's mother-in-law; Magnus' ally | ALIVE (maimed exile) |
 | Bruiser | Main | War Beast | Vanguard Tank; Isaiah's mentee | ACTIVE |
 | Archer / Aiden Ryder | Main | Human (Enhanced) | YFP Scout; son of Arden Ryder | **DECEASED** (Magmasaurus — first YFP casualty) |
@@ -483,6 +484,43 @@ Archer was the **first YFP casualty**. His death broke the team's morale and dir
 **Key Relationships:** Jen (ex — still cares deeply, caused real damage), Vrenn (father — complicated; sees too much of himself in Blaze), Ellie (mother — loves him, was deeply ashamed), Owen (team leader — the steady one Blaze looks up to), Archer (best friend — total opposites; the calm to his chaos), Graphite (best friend — his chaos meets Graphite's calm), Jean (closest teammate — fight, argue, but would take bullets for each other), Kai (little brother, age 4 — the chaos duo; calls him his best friend; loves him unconditionally regardless of what Blaze has done)
 
 **Quotes:** *"I move too fast for regret to catch up. Unfortunately... people don't."* / *"I don't run from people. I run because standing still hurts."* / *"I can't change the past. But I can decide who I become next."*
+
+---
+
+### Break
+
+- **Name:** Break (real name vs. codename — TBD)
+- **Species:** Alien (species name TBD — looks fully human; the alien nature is not visible)
+- **Role:** Isaiah's closest friend; main story cast
+- **How they met:** On the battlefield — the friendship was forged in combat, not before it
+
+**Appearance:**
+- Looks completely human at first glance
+- Wears a **full set of bulky iron armor** — heavy, imposing, built for war
+- Wields a **giant iron hammer** as his primary weapon
+- In human form: a warrior who reads as a heavily armored frontline fighter
+
+**The Transformation — Velociraptor Mode:**
+Break can transform into a **small, green, Velociraptor-like creature**. The form is compact and fast — not large, but that's the point.
+
+- **Power multiplier:** 10x stronger, faster, and more durable than his base form
+- **Size:** Small enough to be underestimated; fast enough that it doesn't matter
+
+**The Cost — Permanent Mechanic:**
+Every time Break shifts into Velociraptor Mode and back, he returns **significantly weaker than his pre-transformation baseline**. It then takes **weeks of recovery** to climb back up to where he was before he transformed.
+
+The more he uses the form in a short span of time, the worse the debt compounds. There is no shortcut back — only time heals it.
+
+This makes every transformation a strategic gamble: use the power now and spend weeks paying for it, or hold back and risk losing the fight at base strength. It is the central tension of his character in combat.
+
+**Story significance:**
+- One of the few people Isaiah genuinely calls a friend — not a mentor, not a subordinate, not a teammate by assignment
+- The battlefield origin of their friendship means the bond was tested before it was chosen
+
+**⚠ Details pending:**
+- Species name not yet established
+- Whether "Break" is a real name or codename not yet confirmed
+- Full backstory, age, and additional personality details TBD
 
 ---
 
