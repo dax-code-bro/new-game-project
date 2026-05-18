@@ -952,7 +952,7 @@ After the YFP battle against Magnus and Anita, Skyler is left **in a coma** — 
 
 **Planet:** "Utopia" (at least colloquially)
 **Population:** 49 at start of Part 5 → ~200 by mid-arc
-**Biology:** Some Vex can flicker limbs in and out of particle form; free will is considered sacred in Vex culture
+**Biology:** Some Vex can flicker limbs in and out of particle form; free will is considered sacred in Vex culture; **average of 10 or more children per female** — large families are biologically normal and expected for the species
 
 ---
 
@@ -1744,6 +1744,10 @@ Philip's response: *"I'm always there."*
 The moment Philip gets Isaiah alone, the front drops. He explains to his grandfather in complete confidence how genuinely overwhelming it is. Seven children. They look so much alike he can barely tell them apart. He is constantly trying to hold approximately **thirty different names** in his head — full names, nicknames, what each one responds to, which one is which — and failing.
 
 A man who carries Arden blood, third-generation hybrid, raised to be a galactic superhero — and he cannot reliably remember which child is which.
+
+He also explains something he did not know going in: **Vanessa's species is biologically built for large families.** The Vex average **ten children or more**. It is not unusual — it is expected. Philip had no idea. He went into the arrangement thinking he would be dealing with one, maybe two children at the most.
+
+Seven in and the biology is nowhere near finished.
 
 He tells Isaiah because Isaiah is the only person he can tell.
 
