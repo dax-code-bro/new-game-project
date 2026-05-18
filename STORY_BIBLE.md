@@ -1648,7 +1648,21 @@ She is just **happy he's alive.**
 That is her whole response. Relief so complete it has no room for anything else.
 
 *⚠ The specific dialogue of their reunion — TBD when the scene is written*
-*⚠ What happened to the Empire during those three years — TBD*
+
+**The Empire's Welcome:**
+Isaiah's return is met by the Empire. They explain what he came back to — he arrived **in the nick of time**.
+
+After three years without an Emperor, the Empire had reached the point of choosing a replacement. The process had been building. A new Emperor was about to be selected.
+
+They had been stalled — delayed, pushed back, bought extra time — because **Taylor kept refusing**.
+
+Every time the council moved toward installing someone new, Taylor refused to accept it. For three years she held that line. She never formally declared Isaiah dead. She never consented to a replacement. She simply would not move.
+
+She was falling apart in private. In front of the Empire she was a wall.
+
+Isaiah arrived before the stalling could hold any longer — the delay Taylor had fought for ran out just as he walked back through.
+
+*⚠ What the political consequences of the three-year gap are for the Empire — TBD*
 
 **Resolution:** Isaiah and Dura kill both twins simultaneously. The cycle ends. Dura's 1,000-year war is over.
 
