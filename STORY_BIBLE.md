@@ -1093,6 +1093,9 @@ After the YFP battle against Magnus and Anita, Skyler is left **in a coma** — 
 - Isaiah held up Magmasaurus physically — the only member of either team who could even slow it down — but even he couldn't win alone or together with the rest of the team
 - Escaped into the ocean after the battle, completely uninjured
 
+**Second attack — Owen's home:**
+Magmasaurus later appears at Owen's house without warning — a direct personal attack. Owen fights and is beaten to near-death or death. Jen revives him using her powers. They are forced to flee their own home. Magmasaurus is escalating from city attacks to targeting specific individuals.
+
 **Threat classification:** Functionally above the YFP's combined power ceiling. Stopped by Isaiah temporarily; not defeated by Isaiah or anyone. One of the few threats in the story that required a broader strategic solution rather than brute force.
 
 **Spinoff note:** "Magmasaurus Special Episodes" listed as a standalone spinoff concept — the creature migrating, waking, feeding; nature dwarfing civilization.
@@ -1558,6 +1561,21 @@ Philip Hammond Sr. became Emperor of the Arden Empire before Isaiah. After his r
 - They fought the YFP team directly
 - Result: Blaze — critical condition; Skyler — coma; Granite — life support; Owen — regenerating; Terra — minor injuries; Quickblade — decent condition
 - Team severely outmatched by two OMEGA-class threats simultaneously
+
+**Magmasaurus at Owen's home:**
+Business as usual for Owen — handling threats, keeping things moving. Then Magmasaurus shows up at his house. No warning. No context. A direct, personal attack on his home.
+
+A fight breaks out immediately. Owen takes heavy hits. He goes down. He dies — or comes close enough that there is no difference in the moment.
+
+Jen watches. She is frozen — unable to act, overwhelmed by what she is seeing happen to him.
+
+Then she moves. She uses her powers and **revives Owen** — pulling him back. They do not stay to fight. They run.
+
+Magmasaurus came to their home. They had to flee it.
+
+*⚠ Why Magmasaurus targeted Owen's home specifically — TBD*
+*⚠ Whether the home was destroyed — TBD*
+*⚠ What Jen's revival of Owen cost her — TBD*
 
 ---
 
