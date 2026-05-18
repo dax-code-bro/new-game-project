@@ -1694,6 +1694,18 @@ Isaiah arrived before the stalling could hold any longer — the delay Taylor ha
 **Philip Morgan:**
 - Grows up; becomes a galactic superhero; may start his own family; continues the legacy
 
+**Philip Morgan — The Vex Arc:**
+Philip Jr. crash lands on the Vex planet. The Vex beat him badly. His injuries leave him with no viable path to survival except one — the Vex king offers him his life in exchange for entering a forced relationship with his daughter, to continue the royal bloodline.
+
+Philip is forced to accept.
+
+**The irony:** The Vex built their entire culture on the principle that free will is sacred. Vex General Kael refused to force Isaiah into anything — he rescinded the breeding offer the moment Isaiah declined and offered protection instead. Now, generations later, the Vex king is forcing Isaiah's grandson into an arrangement against his will. Something fundamental has changed in the Vex empire, or this king is acting in direct contradiction of everything his people stand for.
+
+*⚠ Whether Philip and the king's daughter develop genuine feelings — TBD*
+*⚠ Whether Owen or Isaiah find out and intervene — TBD*
+*⚠ What the long-term consequences of this arrangement are for Philip's life — TBD*
+*⚠ How/whether Philip eventually escapes or accepts this as his life — TBD*
+
 ---
 
 ## SPINOFF UNIVERSE IDEAS
