@@ -78,6 +78,8 @@ The story follows Isaiah Alexander Lyons, a first-generation Arden-human hybrid 
 | Jessica Ryder | Background | Human | Archer's mother | ALIVE |
 | Kai Marlowe | Background | Human | Ellie and Vrenn's younger son; Blaze's little brother (age 4) | ALIVE |
 | Celine | Background | Unknown | Former Vanguard member; left after Lucky (Human)'s death | DEPARTED |
+| Dura | Supporting (alt. universe) | Unknown | Alternate universe's durability-based hero; 1,000-year war vs. Cannibal Twins | ALIVE |
+| Cannibal Twins | Supporting (alt. universe) | Lab experiment (human-like) | Alternate universe antagonists; cyclically reborn stronger with full memories | ACTIVE / CYCLING |
 
 ---
 
@@ -1554,6 +1556,46 @@ Philip Hammond Sr. became Emperor of the Arden Empire before Isaiah. After his r
 - They fought the YFP team directly
 - Result: Blaze — critical condition; Skyler — coma; Granite — life support; Owen — regenerating; Terra — minor injuries; Quickblade — decent condition
 - Team severely outmatched by two OMEGA-class threats simultaneously
+
+---
+
+### The Portal Arc — Isaiah's Alternate Universe Visit
+
+**Placement:** After Isaiah becomes Emperor (post-3-Week War, during his reign); before or during the Story Ending Arc
+
+**Setup:**
+Isaiah, now Emperor, is wandering — looking for something to fix, some problem to solve; the burden of empire doesn't sit still in him. He stumbles upon a portal and accidentally slips through it. He arrives in a **separate reality** — a parallel universe with its own history, its own heroes, its own threats.
+
+**Dura:**
+A superhero native to this alternate universe whose power is **incredible durability**. He has been fighting the same enemy for nearly **1,000 years** — and he is exhausted, worn down to the bone, desperate. When he finds Isaiah (an unknown variable from outside his universe), he immediately recognizes that Isaiah might be the only chance he has left.
+
+*⚠ Dura's full profile — species, appearance, additional powers, backstory — TBD*
+
+**The Cannibal Twins:**
+Two small, extremely fast, human-like lab experiments. The most dangerous thing about them is not their speed — it's the cycle.
+
+**Abilities:**
+- Enhanced speed — primary combat tool; they are difficult to catch or counter
+- They eat their victims — their kills are consumed, not left behind
+- They work exclusively as a pair; can never be more than two
+
+**The Cycle — 1,000-Year Escalation:**
+When the Cannibal Twins run out of prey, they turn on each other. One kills and consumes the other. The surviving twin then **regenerates the dead one**. They are **reborn with all their memories intact** — every fight, every strategy, every opponent they have ever faced is encoded in them.
+
+Each cycle makes them stronger than the previous generation. This has been happening for nearly **1,000 years**. The twins Dura is fighting now are exponentially more powerful than the pair who first appeared — and every time Dura wins a round, he is only making the next generation worse.
+
+The hard limit: **only ever two at a time.** The cycle produces two, and two only.
+
+**Why Isaiah is the wildcard:**
+The Cannibal Twins have 1,000 years of memories. They have fought Dura hundreds of times. They know every hero, every strategy, every move in their universe. Isaiah is from **outside this reality** — they have zero data on him. No memories, no counter, no adaptation prepared. He is the unknown variable in a conflict that has been perfectly mapped for a millennium.
+
+**Key dramatic tension:**
+- Every "victory" against the twins is a loss in the long game — they come back stronger
+- Dura has been losing the war for 1,000 years while winning individual battles
+- The twins' memories mean they learn and adapt; Isaiah's ignorance of their universe is his only advantage, and it expires the moment they survive an encounter with him
+- *⚠ How this arc resolves — whether Isaiah finds a permanent solution or simply buys Dura time — TBD*
+
+*⚠ Cannibal Twins' names — TBD*
 
 ---
 
