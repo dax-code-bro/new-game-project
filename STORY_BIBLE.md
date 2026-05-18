@@ -1589,13 +1589,21 @@ The hard limit: **only ever two at a time.** The cycle produces two, and two onl
 **Why Isaiah is the wildcard:**
 The Cannibal Twins have 1,000 years of memories. They have fought Dura hundreds of times. They know every hero, every strategy, every move in their universe. Isaiah is from **outside this reality** — they have zero data on him. No memories, no counter, no adaptation prepared. He is the unknown variable in a conflict that has been perfectly mapped for a millennium.
 
-**Key dramatic tension:**
-- Every "victory" against the twins is a loss in the long game — they come back stronger
-- Dura has been losing the war for 1,000 years while winning individual battles
-- The twins' memories mean they learn and adapt; Isaiah's ignorance of their universe is his only advantage, and it expires the moment they survive an encounter with him
-- *⚠ How this arc resolves — whether Isaiah finds a permanent solution or simply buys Dura time — TBD*
+**Why Dura has been losing for 1,000 years — the real problem:**
+The twins have a survival rule built into their partnership: the moment one is close to death, the **other one runs**. Not fights. Runs. It ensures at least one always escapes, regenerates the dead twin, and the cycle continues. It is a perfect failsafe.
+
+Dura could corner one twin, bring it to the edge of death — and then watch the other vanish. Every time. For 1,000 years.
+
+**The seven heroes:**
+Dura was not always alone. He had a team of **seven heroes**. The Cannibal Twins killed all seven of them. Dura has been fighting solo ever since — which makes the two-target problem completely unsolvable for one person no matter how durable he is.
+
+**Why Isaiah solves it:**
+Two fighters. Two targets. One per twin, simultaneously — no escape route for either. Isaiah and Dura corner them at the same moment and finish both before either can run. The cycle that has been running for nearly 1,000 years ends because for the first time, the twins face an opponent they have no memory of and no strategy against, alongside the one opponent they've never been able to simply outlast.
+
+**Resolution:** Isaiah and Dura kill both twins simultaneously. The cycle ends. Dura's 1,000-year war is over.
 
 *⚠ Cannibal Twins' names — TBD*
+*⚠ Whether Isaiah finds a way back through the portal immediately after, or spends more time in the alternate universe — TBD*
 
 ---
 
