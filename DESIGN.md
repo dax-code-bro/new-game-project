@@ -417,6 +417,22 @@ Animals are rated as trophies. Known trophy animals include:
 
 ---
 
+## Animal Behavior — Special Cases
+
+### Predator Stalking
+- Only predators stalk and actively hunt the player
+- Predators track, follow, and close in before striking
+
+### Notable Animal Behaviors
+| Animal | Behavior |
+|--------|----------|
+| **Crocodile** | Camouflages as a rock — looks identical to surrounding terrain until it strikes |
+| **Hippo** | One of the most dangerous animals to encounter — highly aggressive |
+| **Opossum** | Plays dead convincingly when threatened |
+| **Badger** | Randomly approaches and bites the player's ankles unprovoked |
+
+---
+
 ## Combat & Death System (Applies to Everything)
 
 ### Realistic Combat
@@ -428,6 +444,20 @@ Animals are rated as trophies. Known trophy animals include:
 - **Realistic blood** appears on hit — this is the primary visual indicator of damage
 
 **Example:** A lion swipes at a cheetah's face. The cheetah loses 10 hearts of health but shows no red flash and no knockback — you only know it landed by the animation and the blood. You have to actually watch the fight to understand who is winning.
+
+### NPC & Human Wound Reactions
+- Non-fatal gunshot wounds trigger a full realistic reaction sequence:
+  1. Immediately **drops weapon** on the ground
+  2. **Stumbles backward** clutching the wound
+  3. **Gradually falls over**
+- No instant death unless the wound is fatal
+
+### Item Physics
+- Items have **real gravity** — they never float in place
+- Items have **full 3D models** with actual physical presence
+- If a block beneath an item is broken the item **falls realistically**
+- Example: A tree drops an apple — the apple falls and lands naturally on the ground
+- Applies to all items across the entire mod
 
 ### Death & Decomposition
 - When an entity dies its **body stays on the ground** — no instant despawn
