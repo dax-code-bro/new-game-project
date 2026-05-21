@@ -417,6 +417,29 @@ Animals are rated as trophies. Known trophy animals include:
 
 ---
 
+## Combat & Death System (Applies to Everything)
+
+### Realistic Combat
+- **No red flash** when an entity is hit — zero vanilla hit indicators
+- **No knockback** from hits
+- **No visible HP loss indicator during combat** — you read the fight through animations and blood
+- Hundreds of thousands of unique **attack animations** per species/situation
+- **Winning animations** when a fight is decided
+- **Realistic blood** appears on hit — this is the primary visual indicator of damage
+
+**Example:** A lion swipes at a cheetah's face. The cheetah loses 10 hearts of health but shows no red flash and no knockback — you only know it landed by the animation and the blood. You have to actually watch the fight to understand who is winning.
+
+### Death & Decomposition
+- When an entity dies its **body stays on the ground** — no instant despawn
+- Body persists for **10 Minecraft days**
+- Body **naturally decomposes** over those 10 days
+- While the body is present the player can:
+  - **Harvest meat**
+  - Collect other resources (hide, bones, etc.)
+- Applies to **all entities** — animals, bandits, predators, everything
+
+---
+
 ## Global Systems & Standards
 
 ### Auto-Breeding (Applies to All Animals)
