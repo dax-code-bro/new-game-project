@@ -448,10 +448,14 @@ Animals are rated as trophies. Known trophy animals include:
 - Players CAN still manually breed for genetic selection purposes
 - This applies to all animal species across all professions
 
-### Animal Despawning
+### Animal Despawning & Persistent Identity
 - **Animals never despawn** — no vanilla despawn behavior
 - Every animal that spawns stays in the world permanently unless killed or removed by the player
 - Bodies persist 10 Minecraft days before decomposing (see Combat & Death System)
+- **Every animal is unique and persistent** — injuries, aging, and history are permanently saved to that individual animal
+- **Example:** Two deer fight and one loses an antler and an eye during the battle. You may not see that deer again for hundreds of journey days. When you finally encounter it again it will be visibly older and withered — and still missing that antler and eye from the fight you witnessed
+- Animals age visually over time through their lifecycle stages
+- A world-worn animal tells its own story just through its appearance
 
 ### Performance & Memory Management
 - This mod is a massive overhaul — hundreds of thousands of animations, 1700+ animals, complex AI systems
