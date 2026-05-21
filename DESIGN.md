@@ -448,6 +448,21 @@ Animals are rated as trophies. Known trophy animals include:
 - Players CAN still manually breed for genetic selection purposes
 - This applies to all animal species across all professions
 
+### Animal Despawning
+- **Animals never despawn** — no vanilla despawn behavior
+- Every animal that spawns stays in the world permanently unless killed or removed by the player
+- Bodies persist 10 Minecraft days before decomposing (see Combat & Death System)
+
+### Performance & Memory Management
+- This mod is a massive overhaul — hundreds of thousands of animations, 1700+ animals, complex AI systems
+- The game includes a built-in **pause and refresh system**
+- When the game is turned off or paused it takes a moment to:
+  - Refresh all loaded entities and systems
+  - Reload assets into memory
+  - Clear and reset where needed
+- This is intentional and expected behavior — not a bug
+- Ensures stability given the scale of the mod
+
 ### Visual & Technical Standards
 - **No blind or flat textures** on any item — everything must be realistic and clean
 - All item models must be detailed and polished
