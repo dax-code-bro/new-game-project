@@ -646,3 +646,80 @@ Four meters to manage during transport:
 | **Fully Loaded** | Use all four M16 ammo types and all four attachments |
 
 ---
+
+## Random Quests
+
+### The Daisy & Devil Quest
+
+**Finding It:**
+- Hidden house on a mountain at the very edge of Texas — no quest marker
+- The moment you reach the top an old man bursts out the door shooting at you with a **double barrel shotgun**
+- He is completely invincible — cannot be killed
+- **Shoot the gun out of his hand** → triggers negotiation
+- You reach an agreement — he needs help with his cornfield
+
+**The Boar — "Devil":**
+- Head into the cornfield and get **jump scared** by a massive black boar
+- Scar across its eye
+- A **pump action shotgun impaled in its left tusk** — evidence of a previous encounter
+- Charges immediately, fast and aggressive
+- Recommended shots: **heart or head** (ties into organ placement system)
+
+**The Reward — Choose One Dog:**
+After killing the boar and returning to the ranch the old man pulls two dogs from a kennel. He says he's getting old and can only care for one. Player must choose:
+
+**Devil — Black Miniature Dachshund**
+- Missing both front legs — replaced with a **small wheelchair**
+- Has a scratch scar
+- Wears a **red collar**
+- Cannot take damage — completely invincible
+- Legendary combat distractor and warrior
+
+**Daisy — White Beagle**
+- Completely white coat
+- Wears a **golden collar**
+- **Luck Enhancement** — +30% luck boost while milking cows, shearing sheep, doing farm work, and everything else
+- Not a combat dog — zero combat capability, completely defenseless
+
+**Post-Completion Visit:**
+- Return to the old man after 100% completing the mod
+- He **remembers you** and rewards you with a special potion:
+  - +20 hearts
+  - +20 hunger bars
+  - Permanent **cold AND heat resistance**
+
+---
+
+## Sharpshooter System
+Works exactly like Dead Eye from Red Dead Redemption 2:
+- **Meter** fills over time, depletes when active
+- **Time slows** when activated
+- Player paints targets and body parts before releasing
+- **Specific body part targeting** — headshots, limb shots, disarming enemies
+- Meter refills through gameplay
+- Has upgrade tiers that improve precision and capability over time
+
+---
+
+## Organ & Anatomy System
+- Animals and enemies have realistic internal organ placement
+- Shot placement matters — different organs cause different wound outcomes
+- Recommended shots vary by situation:
+  - **Heart shot** — fast kill on large animals
+  - **Head shot** — instant kill
+  - Limb shots — wound and slow but don't kill quickly
+- Ties directly into the Sharpshooter system and hunting mechanics
+
+---
+
+## Animal Behavior — Species-Accurate Aggression
+- Every animal behaves exactly as it would in real life
+- **Sun Bear** — passive, may stop and stare or give a warning roar/stand, then walks away
+- **Grizzly Bear** — territorial but not mindlessly aggressive; hold your ground and stay still and it backs off; run and it charges
+- **Crocodile** — camouflages perfectly as a rock until it strikes
+- **Hippo** — one of the most dangerous animals, highly aggressive
+- **Opossum** — plays dead convincingly when threatened
+- **Badger** — randomly approaches and bites the player's ankles unprovoked
+- Wrong reaction to the wrong species is fatal — players must know their animals
+
+---
