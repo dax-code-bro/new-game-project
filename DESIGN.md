@@ -186,6 +186,88 @@ Target livestock, especially at night. Fence tier determines containment effecti
 
 ---
 
+## Law & Order System
+
+### Causing a Ruckus in Town
+- Sheriff's office floods with cops in waves immediately
+- Tracking dogs assist in hunting down the player
+- Once caught — arrested and taken to jail
+
+### Jail Penalties
+- **25 real minutes** served in physical jail (player is actually inside the jail cell)
+- **1/5 of total money** permanently removed
+- **3 game day ban** from that town upon release
+
+### Breaking the Ban
+- Entering the banned town during the 3-day ban = instant wanted status
+- The **Sheriff himself** personally comes out
+- The **Sheriff is completely invincible** — cannot be killed, only outrun
+
+---
+
+## Towns of Texas
+
+### Town of Rust
+- **Location:** Dead center of the Texas map — the main central hub
+- **Known for:** Rabbit and quail hunting grounds
+
+### Town of Foxboro
+- **Status:** Poor and struggling
+- **Problem:** Foxes constantly killing their livestock — NPCs are sick and depressed
+- **Quest:** Exterminate 15 fox nests around the town
+- **After Quest:** Town visibly transforms — becomes lively, NPCs recover, atmosphere brightens
+
+### Town of Yellowstone
+- **Notable character:** A friendly white bison named **Tundra** lives at a camp near the town
+- White bison are exceptionally rare and significant
+- Tundra is the same bison encountered later in the "I See Ends" mission
+
+---
+
+## House Requirements
+Every profession starts with or builds a house. A structure only counts as a house if it contains all three:
+1. **Crafting Station**
+2. **Bed**
+3. **Locker**
+
+### The Locker
+The locker is the player's personal management hub. Used to:
+- Store items
+- Change out active Buddy
+- Browse and take on new jobs
+- Manage equipment
+
+---
+
+## Buddy System
+Three unique named companions, each with their own backstory and special abilities. Far more powerful and unique than regular dogs or horses. Only one active Buddy at a time. Managed through the Locker.
+
+Available Buddies:
+- **Tundra**
+- **Crimson Archer**
+- **Bulldozer**
+
+---
+
+### Tundra (White Bison)
+**How to Unlock:** Complete the mission **"I See Ends"**
+- Travel to Antarctica to tranquilize an animal
+- Mission goes wrong — Tundra is found trapped in barbed wire
+- Free her and complete the mission
+- Boss lets you keep Tundra as a reward AND pays the full mission reward
+- Note: Tundra is the same white bison seen at the Town of Yellowstone — the player meets her before the mission
+
+**Traits:**
+- Larger than a standard bison
+- Albino (pure white)
+- Heightened durability
+
+**Abilities:**
+- **The Wall** — Tundra physically positions her body between the player and incoming gunfire or a predator, absorbing all hits
+- **Forager** — Activates a tracking ability that leads the player to the nearest food source, berries, or edible plants
+
+---
+
 ## Economy
 - Starting currency: **$500** (Rancher)
 - Currency used to buy land, animals, supplies
