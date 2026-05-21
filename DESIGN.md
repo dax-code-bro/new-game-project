@@ -266,6 +266,89 @@ Available Buddies:
 - **The Wall** — Tundra physically positions her body between the player and incoming gunfire or a predator, absorbing all hits
 - **Forager** — Activates a tracking ability that leads the player to the nearest food source, berries, or edible plants
 
+### Crimson — Legendary Red Golden Retriever
+**Backstory:** Retired Green Beret service dog after 5 years of active duty. His military training has fundamentally rewired his retriever instincts — mission-critical gear comes before ducks.
+
+**Traits:**
+- Legendary red golden retriever (rare coloring)
+- Legendary combat skills from Green Beret service
+
+**Abilities:**
+- **Retriever Instinct** — Can still fetch birds and ducks during hunting like a normal golden retriever
+- **Gear Run** — Fetches equipment, ammo, and supplies from fallen enemies or the environment and delivers them directly to the player (inspired by Boom Boom from Far Cry 5)
+- Elite combat capability far beyond a normal dog
+
+---
+
+### Archer — Human Companion
+**Backstory:**
+- Born into and raised by a Native American tribe
+- Tribe was forcibly displaced by the military
+- Led a **Native American revolution in Paris** in his mid 20s
+- Fell in love with and married the **daughter of the Paris leader**
+- The **President discovered the marriage**, had them separated, and declared Archer dead
+- Survived his own execution and escaped — now lives off the grid as a ghost to the world
+- Currently in his **early 40s**
+
+**How to Unlock:**
+- Travel to Asia
+- Discover a broken down abandoned facility — Archer's former execution site
+- Environmental clues inside:
+  - Photo of a woman on the ground
+  - A Glock lying nearby
+  - Rows of chairs
+  - Document reading *"The execution of the outlaw known as Archer"*
+- Find a piece of paper with his location
+- Track him down to complete the unlock
+
+**Combat:**
+- Primary weapons: **Compound bow and crossbow**
+- Arrow types: Fire arrows, explosive arrows, and wide variety of others
+- Sidearm: **Glock** (a concession to his years in hiding — still prefers the bow)
+- Rides his horse **Wild** — brown with white stripes
+
+---
+
+### Bulldozer — Tiger/Black Panther Hybrid
+**Appearance:**
+- Mixed tiger and black panther coloring
+- Severely overweight and visually massive
+- Retains agility and stealth despite his size
+
+**Stats:**
+- Extra weight significantly boosts health and defense — essentially a tank
+- Still capable of stealth approach before combat
+
+**How to Unlock:**
+- Travel to an **illegal animal breeding facility**
+- Access a computer containing **20 files total**
+- Most players will open scary-sounding files (which do contain dangerous animals) or delete all files to complete the quest
+- **File P037** — unassuming name, easy to miss among 19 other files
+- Opening P037 reveals Bulldozer's file
+- Player character has a spontaneous change of heart and decides to rescue him
+- Completely optional, no quest marker, no hints — pure player-driven discovery
+
+**Special Ability — The Maul:**
+- Does not pounce and wrestle like a normal big cat
+- Slaps enemies into ragdoll physics with brute force
+- Bites and throws enemies — pure power over technique
+- His size means enemies don't get mauled, they get launched
+
+---
+
+## 100% Completion Reward
+
+### The Sunset Cutscene
+Triggers automatically upon completing every achievement and job in the mod:
+- Every hired crew member and named NPC appears
+- Every named animal that died appears as a **ghost**
+- All gathered together watching a sunset
+- A quiet, emotional memorial for the entire journey
+
+### Completion Gear
+- **Full black gunslinger outfit**
+- **Custom golden revolver**
+
 ---
 
 ## Economy
