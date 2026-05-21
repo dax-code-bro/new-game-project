@@ -351,7 +351,70 @@ Triggers automatically upon completing every achievement and job in the mod:
 
 ---
 
-## Economy
+## Animal Hunter Profession
+
+### Overview
+The most expensive class in the game. Built around high-stakes guided hunts with massive entry fees that require serious grinding to afford. Introduces hunting mechanics, taxidermy, and a wide arsenal of weapons.
+
+### Hunt Tiers & Pricing
+| Hunt | Price | Animals |
+|------|-------|---------|
+| Texas Hunt | $25,000 | Local Texas wildlife |
+| Standard Africa Tour | $10,000 | Small African animals |
+| Premium Africa Hunt | $25,000 | Medium African animals |
+| Elite Africa Hunt | $100,000 | Record-sized animals (massive water buffalo, etc.) |
+
+Note: **$10,000 is exceptionally hard to earn** — the $100,000 elite hunt is a true endgame milestone just to afford entry.
+
+### Hunting Zones & Hunting Pressure
+- Each continent has defined **hunting zones**
+- **Hunting pressure system:** Hunt an area too much and animals will begin avoiding it
+- Pressured animals relocate to different **feeding and sleeping zones**
+- Animals arrive at specific **times of day** — timing matters for a successful hunt
+- Forces players to rotate zones and hunt responsibly
+
+### Taxidermy System
+- Unlocks the **Taxidermy Tool**
+- Requires a **truck** — animal must be loaded onto the truck bed
+- Transport the animal back to the **hunting lodge**
+- Taxidermy the animal realistically at the lodge
+- Choose between:
+  - **Head mount**
+  - **Full body mount**
+
+### Trophy Rating System
+Animals are rated as trophies. Known trophy animals include:
+- Red Deer
+- Mule Deer
+- Water Buffalo (record-sized available in Elite tier)
+- Aggressive Hyenas
+- (More to be defined)
+
+### Animal Hunter Weapons
+- Blowgun
+- Compound Bow
+- Elephant Rifle
+- .308
+- .243
+- Many additional firearms (to be expanded)
+
+---
+
+## Global Systems & Standards
+
+### Auto-Breeding (Applies to All Animals)
+- Animals do **not** require the player to manually initiate breeding
+- Breeding happens automatically when conditions are right
+- Players CAN still manually breed for genetic selection purposes
+- This applies to all animal species across all professions
+
+### Visual & Technical Standards
+- **No blind or flat textures** on any item — everything must be realistic and clean
+- All item models must be detailed and polished
+- **Realistic shaders** applied globally to improve atmosphere and immersion
+- These standards apply to every single asset in the mod — no exceptions
+
+---
 - Starting currency: **$500** (Rancher)
 - Currency used to buy land, animals, supplies
 - Income sources: animal shows, animal sales, bandit bounties (deliver alive to sheriff)
