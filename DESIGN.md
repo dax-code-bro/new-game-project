@@ -61,7 +61,10 @@ All animals have realistic 3D models (not flat/blocky), with sexual dimorphism (
 | Ducks    | 60           |
 | Quail    | 15           |
 | Wild/Other Birds | 60   |
-| **Total** | **285**     |
+| **Subtotal (known)** | **285** |
+| **Total farm animals** | **700+** |
+
+Full species list to be defined. 700+ total farm animals across all categories.
 
 ### Lifecycle
 - **Juvenile phase:** ~200 Minecraft days (~83 real hours) to grow to adult
@@ -382,6 +385,10 @@ Note: **$10,000 is exceptionally hard to earn** — the $100,000 elite hunt is a
   - **Head mount**
   - **Full body mount**
 
+### Huntable Animal Count
+- **1,000+ huntable animals** across all continents
+- Full species list to be defined
+
 ### Trophy Rating System
 Animals are rated as trophies. Known trophy animals include:
 - Red Deer
@@ -389,6 +396,16 @@ Animals are rated as trophies. Known trophy animals include:
 - Water Buffalo (record-sized available in Elite tier)
 - Aggressive Hyenas
 - (More to be defined)
+
+### Game Warden System
+- Every huntable animal requires a **valid license**
+- Licenses must be **renewed** regularly
+- All hunts must be conducted **with a tour guide**
+- Violations:
+  - Hunting without a valid/renewed license
+  - Hunting without a tour guide
+- **Consequence:** Game Warden dispatches law enforcement to arrest the player
+- Ties into the existing jail and law system (25 min jail, 1/5 money fine, town ban)
 
 ### Animal Hunter Weapons
 - Blowgun
